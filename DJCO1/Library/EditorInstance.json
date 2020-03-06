@@ -1,6 +1,14 @@
 {
-	"process_id" : 64704,
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"process_id" : 35460,
+=======
+	"process_id" : 21568,
+>>>>>>> 5314551fe8cbcebfd13cbad72dc20dc6bc459218
+=======
+	"process_id" : 21568,
+>>>>>>> 5314551fe8cbcebfd13cbad72dc20dc6bc459218
 	"version" : "2018.4.18f1",
-	"app_path" : "C:/Program Files/Unity/Hub/Editor/2018.4.17f1/Editor/Unity.exe",
-	"app_contents_path" : "C:/Program Files/Unity/Hub/Editor/2018.4.17f1/Editor/Data"
+	"app_path" : "C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Unity.exe",
+	"app_contents_path" : "C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data"
 }
