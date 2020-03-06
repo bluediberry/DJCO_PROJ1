@@ -13,9 +13,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-06T12:19:32.910+00:00
+  lastUpdatedAtString: 2020-03-06T12:22:07.820+00:00
   initializedAtString: 2020-03-06T12:13:45.112+00:00
   log:
+  - commitID: 1254ec180156abade22c1bc5659fc1985dd9bc45
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: here
+    description: 
+    timeString: 2020-03-06T12:21:41.000+00:00
+    commitTimeString: 2020-03-06T12:21:41.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\.gitignore"
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 801b6854136cd9e7f71326f7a7a8490cea8a4154
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: STOP PLEASE
+    description: 
+    timeString: 2020-03-06T12:19:47.000+00:00
+    commitTimeString: 2020-03-06T12:19:47.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\.gitignore"
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\branches.yaml"
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitlog.yaml"
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitstatusentries.yaml"
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\repoinfo.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\repoinfo.yaml"
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 717b1106da12ffe4e84a740520ec5ce081616112
     mergeA: 
     mergeB: 
