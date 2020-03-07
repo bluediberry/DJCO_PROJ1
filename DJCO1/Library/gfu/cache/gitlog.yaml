@@ -13,10 +13,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-07T18:33:19.492+00:00
-  initializedAtString: 2020-03-07T15:22:16.923+00:00
+  lastUpdatedAtString: 2020-03-07T20:22:42.763+00:00
+  initializedAtString: 2020-03-07T18:45:58.878+00:00
   log:
-  - commitID: 2e6797ba892380de54a4785c91a1ca0cde7928ed
+  - commitID: 711dd39a3e06e913191b540fc4c468fa2571a3a1
+    mergeA: 052e6f5e28cfee6eeac757ab2876d8f0d12e2363
+    mergeB: 05127732459ed721ecdb3939213d6315fd9a6821
+    authorName: Mariana Neto
+    authorEmail: 32868723+bluediberry@users.noreply.github.com
+    commitEmail: 32868723+bluediberry@users.noreply.github.com
+    commitName: Mariana Neto
+    summary: Merge branch 'master' of https://github.com/bluediberry/DJCO_PROJ1
+    description: 
+    timeString: 2020-03-07T18:34:49.000+00:00
+    commitTimeString: 2020-03-07T18:34:49.000+00:00
+    changes: []
+  - commitID: 052e6f5e28cfee6eeac757ab2876d8f0d12e2363
     mergeA: 
     mergeB: 
     authorName: Mariana Neto
@@ -25,14 +37,26 @@ MonoBehaviour:
     commitName: Mariana Neto
     summary: bush
     description: 
-    timeString: 2020-03-07T18:30:07.000+00:00
-    commitTimeString: 2020-03-07T18:30:07.000+00:00
+    timeString: 2020-03-07T18:34:32.000+00:00
+    commitTimeString: 2020-03-07T18:34:32.000+00:00
     changes:
     - path: DJCO1\Assets\Scenes\SampleScene.unity
       fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Scenes\SampleScene.unity
       projectPath: Assets\Scenes\SampleScene.unity
       originalPath: 
       indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\EditorInstance.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 5
       workTreeStatus: 0
     - path: DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
       fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
@@ -70,9 +94,321 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-02fc6b275f1a926419aa217af7380635
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-02fc6b275f1a926419aa217af7380635
+      projectPath: Temp\UnityTempFile-02fc6b275f1a926419aa217af7380635
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-0c67f28f38d71b7419948121b2deb554
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-0c67f28f38d71b7419948121b2deb554
+      projectPath: Temp\UnityTempFile-0c67f28f38d71b7419948121b2deb554
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-17cf58b565fbb9943894f12fb4cb18ac
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-17cf58b565fbb9943894f12fb4cb18ac
+      projectPath: Temp\UnityTempFile-17cf58b565fbb9943894f12fb4cb18ac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-22cf73d9f3ebff043a45887a3f487f71
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-22cf73d9f3ebff043a45887a3f487f71
+      projectPath: Temp\UnityTempFile-22cf73d9f3ebff043a45887a3f487f71
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-2dad95c83894b464e8e892bd995f4b15
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-2dad95c83894b464e8e892bd995f4b15
+      projectPath: Temp\UnityTempFile-2dad95c83894b464e8e892bd995f4b15
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-3275bc1e25c71fe468879b097fc40d9b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-3275bc1e25c71fe468879b097fc40d9b
+      projectPath: Temp\UnityTempFile-3275bc1e25c71fe468879b097fc40d9b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-55d149d803a3b8144abe66fa4ef6f1ad
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-55d149d803a3b8144abe66fa4ef6f1ad
+      projectPath: Temp\UnityTempFile-55d149d803a3b8144abe66fa4ef6f1ad
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5c2814f0d3436104caff6f3d887b4c5f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-5c2814f0d3436104caff6f3d887b4c5f
+      projectPath: Temp\UnityTempFile-5c2814f0d3436104caff6f3d887b4c5f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-62e1dc576fd52ed439b43c582df650f3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-62e1dc576fd52ed439b43c582df650f3
+      projectPath: Temp\UnityTempFile-62e1dc576fd52ed439b43c582df650f3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-6e6e5345af71bff4b84c8cca5704cb31
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-6e6e5345af71bff4b84c8cca5704cb31
+      projectPath: Temp\UnityTempFile-6e6e5345af71bff4b84c8cca5704cb31
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-7db0811255c4e6741a4fd8a1f19b8109
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-7db0811255c4e6741a4fd8a1f19b8109
+      projectPath: Temp\UnityTempFile-7db0811255c4e6741a4fd8a1f19b8109
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-7e827708346da5946963ddebd7d4c398
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-7e827708346da5946963ddebd7d4c398
+      projectPath: Temp\UnityTempFile-7e827708346da5946963ddebd7d4c398
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-8bfadec2720204e408d65a212a1b24d5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-8bfadec2720204e408d65a212a1b24d5
+      projectPath: Temp\UnityTempFile-8bfadec2720204e408d65a212a1b24d5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-936b9b48311b4d24599d4e92106e654c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-936b9b48311b4d24599d4e92106e654c
+      projectPath: Temp\UnityTempFile-936b9b48311b4d24599d4e92106e654c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a48c8115accb59e4c80d8240f9516b5e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a48c8115accb59e4c80d8240f9516b5e
+      projectPath: Temp\UnityTempFile-a48c8115accb59e4c80d8240f9516b5e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a9451ffe31fe236449a4025faacdf72a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a9451ffe31fe236449a4025faacdf72a
+      projectPath: Temp\UnityTempFile-a9451ffe31fe236449a4025faacdf72a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-ba231e4a3e297d34299534d108d0b302
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-ba231e4a3e297d34299534d108d0b302
+      projectPath: Temp\UnityTempFile-ba231e4a3e297d34299534d108d0b302
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-be79f9bde1476ba4180e3c90acdf0084
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-be79f9bde1476ba4180e3c90acdf0084
+      projectPath: Temp\UnityTempFile-be79f9bde1476ba4180e3c90acdf0084
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-d0b8f6c71a358984ca2c55beee5b8668
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-d0b8f6c71a358984ca2c55beee5b8668
+      projectPath: Temp\UnityTempFile-d0b8f6c71a358984ca2c55beee5b8668
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-dd8146f2bec6fc44395dd0adeaa6be9d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-dd8146f2bec6fc44395dd0adeaa6be9d
+      projectPath: Temp\UnityTempFile-dd8146f2bec6fc44395dd0adeaa6be9d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-f2eb5b379ac6aeb47b0bfe0c801128b3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-f2eb5b379ac6aeb47b0bfe0c801128b3
+      projectPath: Temp\UnityTempFile-f2eb5b379ac6aeb47b0bfe0c801128b3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-f950acc6822d7694b84585ca591fbde7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-f950acc6822d7694b84585ca591fbde7
+      projectPath: Temp\UnityTempFile-f950acc6822d7694b84585ca591fbde7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
     - path: DJCO1\Temp\__Backupscenes\0.backup
       fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\__Backupscenes\0.backup
       projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEditor.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEditor.xml
+      projectPath: Temp\bin\Debug\UnityEditor.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.AnimationModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.AudioModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.CoreModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.GridModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.GridModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.GridModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.InputModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.InputModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.InputModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.TerrainModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\UnityEngine.XRModule.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\UnityEngine.XRModule.xml
+      projectPath: Temp\bin\Debug\UnityEngine.XRModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\bin\Debug\nunit.framework.xml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\bin\Debug\nunit.framework.xml
+      projectPath: Temp\bin\Debug\nunit.framework.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 05127732459ed721ecdb3939213d6315fd9a6821
+    mergeA: 1182ed6db5a5cec166b6eed60bf03df56b6dc529
+    mergeB: 76e0da3ed815f1b9cf3f30b9ccf19b6ebff34881
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: Merge branch 'master' of https://github.com/bluediberry/DJCO_PROJ1
+    description: 
+    timeString: 2020-03-07T18:23:18.000+00:00
+    commitTimeString: 2020-03-07T18:23:18.000+00:00
+    changes: []
+  - commitID: 1182ed6db5a5cec166b6eed60bf03df56b6dc529
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-03-07T18:20:01.000+00:00
+    commitTimeString: 2020-03-07T18:20:01.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\.gitignore
+      projectPath: ..\.gitignore
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
@@ -2815,6 +3151,24 @@ MonoBehaviour:
     - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
       fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
       projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: e7ccf1bf0e9f00f595a9d13c40729bd811802ae7
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-03-07T15:13:08.000+00:00
+    commitTimeString: 2020-03-07T15:13:08.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\.gitignore
+      projectPath: ..\.gitignore
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
