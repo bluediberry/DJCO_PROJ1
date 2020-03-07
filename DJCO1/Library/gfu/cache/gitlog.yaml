@@ -13,9 +13,309 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-07T15:22:16.923+00:00
+  lastUpdatedAtString: 2020-03-07T16:22:25.574+00:00
   initializedAtString: 2020-03-07T15:22:16.923+00:00
   log:
+  - commitID: 855e7696d083653e6cbeb89c6a2cfa955a059a8f
+    mergeA: 
+    mergeB: 
+    authorName: Mariana Neto
+    authorEmail: 32868723+bluediberry@users.noreply.github.com
+    commitEmail: 32868723+bluediberry@users.noreply.github.com
+    commitName: Mariana Neto
+    summary: updated background
+    description: 
+    timeString: 2020-03-07T15:41:38.000+00:00
+    commitTimeString: 2020-03-07T15:41:38.000+00:00
+    changes:
+    - path: DJCO1\Assets\Tiles\Stone\stone.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stone.png.meta
+      projectPath: Assets\Tiles\Stone\stone.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCenter.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCenter.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCenter.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCenter_rounded.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCenter_rounded.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCenter_rounded.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCliffAlt_left.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCliffAlt_left.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCliffAlt_left.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCliffAlt_right.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCliffAlt_right.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCliffAlt_right.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCliff_left.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCliff_left.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCliff_left.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCliff_right.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCliff_right.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCliff_right.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCorner_left.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCorner_left.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCorner_left.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneCorner_right.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneCorner_right.png.meta
+      projectPath: Assets\Tiles\Stone\stoneCorner_right.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHalf.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHalf.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHalf.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHalf_left.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHalf_left.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHalf_left.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHalf_mid.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHalf_mid.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHalf_mid.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHalf_right.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHalf_right.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHalf_right.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHill_left.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHill_left.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHill_left.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneHill_right.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneHill_right.png.meta
+      projectPath: Assets\Tiles\Stone\stoneHill_right.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneLeft.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneLeft.png.meta
+      projectPath: Assets\Tiles\Stone\stoneLeft.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneMid.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneMid.png.meta
+      projectPath: Assets\Tiles\Stone\stoneMid.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Tiles\Stone\stoneRight.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Tiles\Stone\stoneRight.png.meta
+      projectPath: Assets\Tiles\Stone\stoneRight.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\EditorInstance.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\GridBrush\UnityEditor.GridBrush.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\GridBrush\UnityEditor.GridBrush.asset
+      projectPath: Library\GridBrush\UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\ShaderCache\7\7d69ca077cf885db80bcfd854481c04c.bin
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\ShaderCache\7\7d69ca077cf885db80bcfd854481c04c.bin
+      projectPath: Library\ShaderCache\7\7d69ca077cf885db80bcfd854481c04c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\ShaderCache\9\9f261ad45b4b06a6208f74b99f4f4df6.bin
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\ShaderCache\9\9f261ad45b4b06a6208f74b99f4f4df6.bin
+      projectPath: Library\ShaderCache\9\9f261ad45b4b06a6208f74b99f4f4df6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\02\02ee27939e743cd4bbecaa193c6418c3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\02\02ee27939e743cd4bbecaa193c6418c3
+      projectPath: Library\metadata\02\02ee27939e743cd4bbecaa193c6418c3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\05\052e96ad9700a324b9771b1a24c1209e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\05\052e96ad9700a324b9771b1a24c1209e
+      projectPath: Library\metadata\05\052e96ad9700a324b9771b1a24c1209e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2b\2bd8ac20cfd495d4f978dab0be0befa5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2b\2bd8ac20cfd495d4f978dab0be0befa5
+      projectPath: Library\metadata\2b\2bd8ac20cfd495d4f978dab0be0befa5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4e\4e5cf84c85e12d6468bcb3813605dfc9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4e\4e5cf84c85e12d6468bcb3813605dfc9
+      projectPath: Library\metadata\4e\4e5cf84c85e12d6468bcb3813605dfc9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\57\576ebf2f17714394a8c6f05a609a80de
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\57\576ebf2f17714394a8c6f05a609a80de
+      projectPath: Library\metadata\57\576ebf2f17714394a8c6f05a609a80de
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5a\5ab7d3c02f7a83a40b40d5c515e1aba2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\5a\5ab7d3c02f7a83a40b40d5c515e1aba2
+      projectPath: Library\metadata\5a\5ab7d3c02f7a83a40b40d5c515e1aba2
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\65\651cf86ce11d91d42bc17383e776c3a9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\65\651cf86ce11d91d42bc17383e776c3a9
+      projectPath: Library\metadata\65\651cf86ce11d91d42bc17383e776c3a9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\65\65c4fdaeab93e6c4aad237c1f25543ba
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\65\65c4fdaeab93e6c4aad237c1f25543ba
+      projectPath: Library\metadata\65\65c4fdaeab93e6c4aad237c1f25543ba
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\66\66ed3b60cae16f949adf64eb1b2c78df
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\66\66ed3b60cae16f949adf64eb1b2c78df
+      projectPath: Library\metadata\66\66ed3b60cae16f949adf64eb1b2c78df
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\69\69e7f7c7f55890240a2bae0df29b0d52
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\69\69e7f7c7f55890240a2bae0df29b0d52
+      projectPath: Library\metadata\69\69e7f7c7f55890240a2bae0df29b0d52
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\73\73a62b43b49a414419289310719ced5e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\73\73a62b43b49a414419289310719ced5e
+      projectPath: Library\metadata\73\73a62b43b49a414419289310719ced5e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\7a\7ae21271ba3b0ad41b9870bb0d3ee78f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\7a\7ae21271ba3b0ad41b9870bb0d3ee78f
+      projectPath: Library\metadata\7a\7ae21271ba3b0ad41b9870bb0d3ee78f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\96\960878e1be72bf541a5ad6b9355b072a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\96\960878e1be72bf541a5ad6b9355b072a
+      projectPath: Library\metadata\96\960878e1be72bf541a5ad6b9355b072a
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\bb\bb90a439d4b48cb449538822645478c5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\bb\bb90a439d4b48cb449538822645478c5
+      projectPath: Library\metadata\bb\bb90a439d4b48cb449538822645478c5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e0\e0154166130cb81408b6c699e52e2f43
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e0\e0154166130cb81408b6c699e52e2f43
+      projectPath: Library\metadata\e0\e0154166130cb81408b6c699e52e2f43
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e7\e7a7b97daede51141856d268ed752008
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e7\e7a7b97daede51141856d268ed752008
+      projectPath: Library\metadata\e7\e7a7b97daede51141856d268ed752008
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f5\f527331c33493844fb7a942b6353ed98
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f5\f527331c33493844fb7a942b6353ed98
+      projectPath: Library\metadata\f5\f527331c33493844fb7a942b6353ed98
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f9\f93615cad79f640488d6e6fe6a2d4941
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f9\f93615cad79f640488d6e6fe6a2d4941
+      projectPath: Library\metadata\f9\f93615cad79f640488d6e6fe6a2d4941
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: cb4f0a20f92d216ec177ea7728b88c64a73348fb
     mergeA: 
     mergeB: 
