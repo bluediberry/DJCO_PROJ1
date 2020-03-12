@@ -240,10 +240,10 @@ MonoBehaviour:
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
-  m_ScreenX: 0.49999994
+  m_ScreenX: 0.49999988
   m_ScreenY: 0.49999988
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.047357924
+  m_DeadZoneWidth: 0.063310064
   m_DeadZoneHeight: 0.754187
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
@@ -457,7 +457,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -23.689999, y: 0.2599976, z: -10}
+  m_LocalPosition: {x: -23.689995, y: 0.2599976, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1713,7 +1713,7 @@ GameObject:
   - component: {fileID: 718192184}
   - component: {fileID: 718192183}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Platform_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2361,7 +2361,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1784931055}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -23.689999, y: 0.2599976, z: -10}
+  m_LocalPosition: {x: -23.689995, y: 0.2599976, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 351967650}
@@ -2642,7 +2642,7 @@ GameObject:
   - component: {fileID: 1929673551}
   - component: {fileID: 1929673550}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: Platform_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
