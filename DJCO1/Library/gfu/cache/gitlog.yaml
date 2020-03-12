@@ -13,9 +13,3327 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-07T20:22:42.763+00:00
-  initializedAtString: 2020-03-07T18:45:58.878+00:00
+  lastUpdatedAtString: 2020-03-12T16:19:53.822+00:00
+  initializedAtString: 2020-03-12T16:19:53.822+00:00
   log:
+  - commitID: 7c35f0e3e529bae7cc3603cae6a2fe34233f0556
+    mergeA: 
+    mergeB: 
+    authorName: Mariana Neto
+    authorEmail: 32868723+bluediberry@users.noreply.github.com
+    commitEmail: 32868723+bluediberry@users.noreply.github.com
+    commitName: Mariana Neto
+    summary: fixed collision
+    description: 
+    timeString: 2020-03-07T23:26:08.000+00:00
+    commitTimeString: 2020-03-07T23:26:08.000+00:00
+    changes:
+    - path: DJCO1\Assets\Cinemachine.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine.meta
+      projectPath: Assets\Cinemachine.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base.meta
+      projectPath: Assets\Cinemachine\Base.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor.meta
+      projectPath: Assets\Cinemachine\Base\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Menus.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Menus.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Menus.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Resources.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Resources.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif
+      projectPath: Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Resources\Cinemachine_header.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png
+      projectPath: Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Resources\cm_logo_sm.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Windows.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs.meta
+      projectPath: Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime.meta
+      projectPath: Assets\Cinemachine\Base\Runtime.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\AxisState.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\AxisState.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\AxisState.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\AxisState.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\AxisState.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\AxisState.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CameraState.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CameraState.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CameraState.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CameraState.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CameraState.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CameraState.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\Predictor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\Predictor.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\Predictor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\Predictor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\Predictor.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\Predictor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs.meta
+      projectPath: Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\CINEMACHINE_install.pdf
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\CINEMACHINE_install.pdf
+      projectPath: Assets\Cinemachine\CINEMACHINE_install.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\CINEMACHINE_install.pdf.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\CINEMACHINE_install.pdf.meta
+      projectPath: Assets\Cinemachine\CINEMACHINE_install.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\CinemachineAPI.chm
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\CinemachineAPI.chm
+      projectPath: Assets\Cinemachine\CinemachineAPI.chm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\CinemachineAPI.chm.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\CinemachineAPI.chm.meta
+      projectPath: Assets\Cinemachine\CinemachineAPI.chm.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\CinemachineExamples.unitypackage.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\CinemachineExamples.unitypackage.meta
+      projectPath: Assets\Cinemachine\CinemachineExamples.unitypackage.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Gizmos.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Gizmos.meta
+      projectPath: Assets\Cinemachine\Gizmos.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Gizmos\Cinemachine.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Gizmos\Cinemachine.meta
+      projectPath: Assets\Cinemachine\Gizmos\Cinemachine.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png
+      projectPath: Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      projectPath: Assets\Cinemachine\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\LICENSE
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\LICENSE
+      projectPath: Assets\Cinemachine\LICENSE
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\LICENSE.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\LICENSE.meta
+      projectPath: Assets\Cinemachine\LICENSE.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX.meta
+      projectPath: Assets\Cinemachine\PostFX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\CinemachinePostFX.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\CinemachinePostFX.cs
+      projectPath: Assets\Cinemachine\PostFX\CinemachinePostFX.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\CinemachinePostFX.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\CinemachinePostFX.cs.meta
+      projectPath: Assets\Cinemachine\PostFX\CinemachinePostFX.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs
+      projectPath: Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs.meta
+      projectPath: Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor.meta
+      projectPath: Assets\Cinemachine\PostFX\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs
+      projectPath: Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs.meta
+      projectPath: Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs
+      projectPath: Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs.meta
+      projectPath: Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\Resources.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\Resources.meta
+      projectPath: Assets\Cinemachine\PostFX\Editor\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png
+      projectPath: Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png.meta
+      projectPath: Assets\Cinemachine\PostFX\Editor\Resources\PostProcessLayer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets.meta
+      projectPath: Assets\Cinemachine\Presets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise.meta
+      projectPath: Assets\Cinemachine\Presets\Noise.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_extreme.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_mild.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_normal_strong.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_tele_mild.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_tele_strong.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_wideangle_mild.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Handheld_wideangle_strong.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Vibration.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Vibration.asset
+      projectPath: Assets\Cinemachine\Presets\Noise\Vibration.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Presets\Noise\Vibration.asset.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Presets\Noise\Vibration.asset.meta
+      projectPath: Assets\Cinemachine\Presets\Noise\Vibration.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\ReleaseNotes.txt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\ReleaseNotes.txt
+      projectPath: Assets\Cinemachine\ReleaseNotes.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\ReleaseNotes.txt.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\ReleaseNotes.txt.meta
+      projectPath: Assets\Cinemachine\ReleaseNotes.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline.meta
+      projectPath: Assets\Cinemachine\Timeline.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineMixer.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineMixer.cs
+      projectPath: Assets\Cinemachine\Timeline\CinemachineMixer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineMixer.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineMixer.cs.meta
+      projectPath: Assets\Cinemachine\Timeline\CinemachineMixer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineShot.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineShot.cs
+      projectPath: Assets\Cinemachine\Timeline\CinemachineShot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineShot.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineShot.cs.meta
+      projectPath: Assets\Cinemachine\Timeline\CinemachineShot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineTrack.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineTrack.cs
+      projectPath: Assets\Cinemachine\Timeline\CinemachineTrack.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\CinemachineTrack.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\CinemachineTrack.cs.meta
+      projectPath: Assets\Cinemachine\Timeline\CinemachineTrack.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\Editor.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\Editor.meta
+      projectPath: Assets\Cinemachine\Timeline\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs
+      projectPath: Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs.meta
+      projectPath: Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Cinemachine\Timeline\LegacyTimelineAPI.unitypackage.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Cinemachine\Timeline\LegacyTimelineAPI.unitypackage.meta
+      projectPath: Assets\Cinemachine\Timeline\LegacyTimelineAPI.unitypackage.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Gizmos.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Gizmos.meta
+      projectPath: Assets\Gizmos.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Gizmos\Cinemachine.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Gizmos\Cinemachine.meta
+      projectPath: Assets\Gizmos\Cinemachine.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Gizmos\Cinemachine\cm_logo_lg.png
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Gizmos\Cinemachine\cm_logo_lg.png
+      projectPath: Assets\Gizmos\Cinemachine\cm_logo_lg.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      projectPath: Assets\Gizmos\Cinemachine\cm_logo_lg.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scripts\PhysicsObject.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Scripts\PhysicsObject.cs
+      projectPath: Assets\Scripts\PhysicsObject.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scripts\PlayerPlatformerController.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Scripts\PlayerPlatformerController.cs
+      projectPath: Assets\Scripts\PlayerPlatformerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\GridBrush\UnityEditor.GridBrush.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\GridBrush\UnityEditor.GridBrush.asset
+      projectPath: Library\GridBrush\UnityEditor.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\01\0181db608628b494d8ae50728e507ce1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\01\0181db608628b494d8ae50728e507ce1
+      projectPath: Library\metadata\01\0181db608628b494d8ae50728e507ce1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\01\0181db608628b494d8ae50728e507ce1.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\01\0181db608628b494d8ae50728e507ce1.info
+      projectPath: Library\metadata\01\0181db608628b494d8ae50728e507ce1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\02\0282251d79d6e964089ace2dc6e6e496
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\02\0282251d79d6e964089ace2dc6e6e496
+      projectPath: Library\metadata\02\0282251d79d6e964089ace2dc6e6e496
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\02\0282251d79d6e964089ace2dc6e6e496.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\02\0282251d79d6e964089ace2dc6e6e496.info
+      projectPath: Library\metadata\02\0282251d79d6e964089ace2dc6e6e496.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\04\048dcb775445a4a478914781ec3ca9c6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\04\048dcb775445a4a478914781ec3ca9c6
+      projectPath: Library\metadata\04\048dcb775445a4a478914781ec3ca9c6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\04\048dcb775445a4a478914781ec3ca9c6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\04\048dcb775445a4a478914781ec3ca9c6.info
+      projectPath: Library\metadata\04\048dcb775445a4a478914781ec3ca9c6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\04\04e6f1d86089cda409e925cd975436d9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\04\04e6f1d86089cda409e925cd975436d9
+      projectPath: Library\metadata\04\04e6f1d86089cda409e925cd975436d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\04\04e6f1d86089cda409e925cd975436d9.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\04\04e6f1d86089cda409e925cd975436d9.info
+      projectPath: Library\metadata\04\04e6f1d86089cda409e925cd975436d9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61
+      projectPath: Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61.info
+      projectPath: Library\metadata\05\05acc715f855ced458d76ee6f8ac6c61.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0d\0d832c901796201458d7c595a98a0242
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0d\0d832c901796201458d7c595a98a0242
+      projectPath: Library\metadata\0d\0d832c901796201458d7c595a98a0242
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0d\0d832c901796201458d7c595a98a0242.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0d\0d832c901796201458d7c595a98a0242.info
+      projectPath: Library\metadata\0d\0d832c901796201458d7c595a98a0242.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25
+      projectPath: Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25.info
+      projectPath: Library\metadata\0e\0eb9f23cde3a1734da334cfa0831dd25.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0f\0f7633c93f0364a418841eeb8b058634
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0f\0f7633c93f0364a418841eeb8b058634
+      projectPath: Library\metadata\0f\0f7633c93f0364a418841eeb8b058634
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0f\0f7633c93f0364a418841eeb8b058634.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0f\0f7633c93f0364a418841eeb8b058634.info
+      projectPath: Library\metadata\0f\0f7633c93f0364a418841eeb8b058634.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41
+      projectPath: Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41.info
+      projectPath: Library\metadata\0f\0fafdc3d4f989ff48803e7d870539b41.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912
+      projectPath: Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912.info
+      projectPath: Library\metadata\10\10e6f8c815d3c4d45b1d98b951d53912.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\1123a444101eb774ba7490990b50736a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\1123a444101eb774ba7490990b50736a
+      projectPath: Library\metadata\11\1123a444101eb774ba7490990b50736a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\1123a444101eb774ba7490990b50736a.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\1123a444101eb774ba7490990b50736a.info
+      projectPath: Library\metadata\11\1123a444101eb774ba7490990b50736a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91
+      projectPath: Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91.info
+      projectPath: Library\metadata\11\1186b8795dc3fc84e8ec53bd314d8e91.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f
+      projectPath: Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f.info
+      projectPath: Library\metadata\11\11b4072af5ccc0a43addb7ee95e5b01f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\15\15ebf04de67923d41a36c21e1fc63718
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\15\15ebf04de67923d41a36c21e1fc63718
+      projectPath: Library\metadata\15\15ebf04de67923d41a36c21e1fc63718
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\15\15ebf04de67923d41a36c21e1fc63718.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\15\15ebf04de67923d41a36c21e1fc63718.info
+      projectPath: Library\metadata\15\15ebf04de67923d41a36c21e1fc63718.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b
+      projectPath: Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b.info
+      projectPath: Library\metadata\15\15ef94834d9e4aa44ac8fe619843346b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1e\1e24085edff8e4e499582d8dcf099510
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1e\1e24085edff8e4e499582d8dcf099510
+      projectPath: Library\metadata\1e\1e24085edff8e4e499582d8dcf099510
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1e\1e24085edff8e4e499582d8dcf099510.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1e\1e24085edff8e4e499582d8dcf099510.info
+      projectPath: Library\metadata\1e\1e24085edff8e4e499582d8dcf099510.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b
+      projectPath: Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b.info
+      projectPath: Library\metadata\1e\1e8b78ac948f05a46a6d8339a503172b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd
+      projectPath: Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd.info
+      projectPath: Library\metadata\1f\1fa3cd9f91afee64e96c128a82544bcd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e
+      projectPath: Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e.info
+      projectPath: Library\metadata\1f\1ff9d8296ed1f02419bf4f417ff2265e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530
+      projectPath: Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530.info
+      projectPath: Library\metadata\20\20a705aea2d80e0478fb89b6f43d8530.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\20\20e46be82478fa24b90f748044c06b4b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\20\20e46be82478fa24b90f748044c06b4b
+      projectPath: Library\metadata\20\20e46be82478fa24b90f748044c06b4b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\20\20e46be82478fa24b90f748044c06b4b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\20\20e46be82478fa24b90f748044c06b4b.info
+      projectPath: Library\metadata\20\20e46be82478fa24b90f748044c06b4b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\21\211d719bb25901043833928f50e9d0ea
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\21\211d719bb25901043833928f50e9d0ea
+      projectPath: Library\metadata\21\211d719bb25901043833928f50e9d0ea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\21\211d719bb25901043833928f50e9d0ea.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\21\211d719bb25901043833928f50e9d0ea.info
+      projectPath: Library\metadata\21\211d719bb25901043833928f50e9d0ea.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\2449eb616c871d044adce04ac98030a6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\2449eb616c871d044adce04ac98030a6
+      projectPath: Library\metadata\24\2449eb616c871d044adce04ac98030a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\2449eb616c871d044adce04ac98030a6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\2449eb616c871d044adce04ac98030a6.info
+      projectPath: Library\metadata\24\2449eb616c871d044adce04ac98030a6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9
+      projectPath: Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9.info
+      projectPath: Library\metadata\24\247be52eadac5044e9f8b7b4d8d0ada9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32
+      projectPath: Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32.info
+      projectPath: Library\metadata\24\24ec24775a1b45e4ea81ac13002dee32.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\26\2643ac9881a89594a80c242b565b34ec
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\26\2643ac9881a89594a80c242b565b34ec
+      projectPath: Library\metadata\26\2643ac9881a89594a80c242b565b34ec
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\26\2643ac9881a89594a80c242b565b34ec.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\26\2643ac9881a89594a80c242b565b34ec.info
+      projectPath: Library\metadata\26\2643ac9881a89594a80c242b565b34ec.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b
+      projectPath: Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b.info
+      projectPath: Library\metadata\29\29d58ccb958d24942bf23fafcec87c0b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2a\2a15a1e455bcc7543872f50762449739
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2a\2a15a1e455bcc7543872f50762449739
+      projectPath: Library\metadata\2a\2a15a1e455bcc7543872f50762449739
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2a\2a15a1e455bcc7543872f50762449739.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2a\2a15a1e455bcc7543872f50762449739.info
+      projectPath: Library\metadata\2a\2a15a1e455bcc7543872f50762449739.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2a\2a82dea150a2b394388860e48a701ed4
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2a\2a82dea150a2b394388860e48a701ed4
+      projectPath: Library\metadata\2a\2a82dea150a2b394388860e48a701ed4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2a\2a82dea150a2b394388860e48a701ed4.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2a\2a82dea150a2b394388860e48a701ed4.info
+      projectPath: Library\metadata\2a\2a82dea150a2b394388860e48a701ed4.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b
+      projectPath: Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b.info
+      projectPath: Library\metadata\2b\2bb09c3bc24a82648a2e4fc008a28d8b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39
+      projectPath: Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39.info
+      projectPath: Library\metadata\2c\2c760cb7073c57e44959f36cbed8ed39.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae
+      projectPath: Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae.info
+      projectPath: Library\metadata\2d\2d37e5385efd7064cb1d54c94960acae.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\31\319d2fe34a804e245819465c9505ea59
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\31\319d2fe34a804e245819465c9505ea59
+      projectPath: Library\metadata\31\319d2fe34a804e245819465c9505ea59
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\31\319d2fe34a804e245819465c9505ea59.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\31\319d2fe34a804e245819465c9505ea59.info
+      projectPath: Library\metadata\31\319d2fe34a804e245819465c9505ea59.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\31\31c3ab7d86d07034eb528155d40c016b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\31\31c3ab7d86d07034eb528155d40c016b
+      projectPath: Library\metadata\31\31c3ab7d86d07034eb528155d40c016b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\31\31c3ab7d86d07034eb528155d40c016b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\31\31c3ab7d86d07034eb528155d40c016b.info
+      projectPath: Library\metadata\31\31c3ab7d86d07034eb528155d40c016b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\32\3226d9f88577be74197693bd17cff8c3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\32\3226d9f88577be74197693bd17cff8c3
+      projectPath: Library\metadata\32\3226d9f88577be74197693bd17cff8c3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\32\3226d9f88577be74197693bd17cff8c3.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\32\3226d9f88577be74197693bd17cff8c3.info
+      projectPath: Library\metadata\32\3226d9f88577be74197693bd17cff8c3.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1
+      projectPath: Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1.info
+      projectPath: Library\metadata\32\325a6a3050a061e4b8aa51386c30e8e1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\360979aafebd332448626a2236bafdb4
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\360979aafebd332448626a2236bafdb4
+      projectPath: Library\metadata\36\360979aafebd332448626a2236bafdb4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\360979aafebd332448626a2236bafdb4.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\360979aafebd332448626a2236bafdb4.info
+      projectPath: Library\metadata\36\360979aafebd332448626a2236bafdb4.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3
+      projectPath: Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3.info
+      projectPath: Library\metadata\36\36baaa8bdcb9d8b49b9199833965d2c3.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c
+      projectPath: Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c.info
+      projectPath: Library\metadata\36\36d1163fa822e8b418a0a603ec078d5c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\37\372fe04232d5ed94d8d71524616c1543
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\37\372fe04232d5ed94d8d71524616c1543
+      projectPath: Library\metadata\37\372fe04232d5ed94d8d71524616c1543
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\37\372fe04232d5ed94d8d71524616c1543.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\37\372fe04232d5ed94d8d71524616c1543.info
+      projectPath: Library\metadata\37\372fe04232d5ed94d8d71524616c1543.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2
+      projectPath: Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2.info
+      projectPath: Library\metadata\37\377a761d6180cd7459b85f4952d0d1f2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3c\3c9beda531928fc40968802117a5d256
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3c\3c9beda531928fc40968802117a5d256
+      projectPath: Library\metadata\3c\3c9beda531928fc40968802117a5d256
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3c\3c9beda531928fc40968802117a5d256.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3c\3c9beda531928fc40968802117a5d256.info
+      projectPath: Library\metadata\3c\3c9beda531928fc40968802117a5d256.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3d\3d53800f587b60a4191877d7713cd17c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3d\3d53800f587b60a4191877d7713cd17c
+      projectPath: Library\metadata\3d\3d53800f587b60a4191877d7713cd17c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3d\3d53800f587b60a4191877d7713cd17c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3d\3d53800f587b60a4191877d7713cd17c.info
+      projectPath: Library\metadata\3d\3d53800f587b60a4191877d7713cd17c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5
+      projectPath: Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5.info
+      projectPath: Library\metadata\3f\3f7c779802a73d5448e38af7c39fbaa5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661
+      projectPath: Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661.info
+      projectPath: Library\metadata\3f\3fed8968b96eb924891cf86f5c51f661.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3
+      projectPath: Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3.info
+      projectPath: Library\metadata\41\418e42c7d0405cc48a7b83f63ea53bb3.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\42\42cf855b42713884aa8851e8bb50acc3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\42\42cf855b42713884aa8851e8bb50acc3
+      projectPath: Library\metadata\42\42cf855b42713884aa8851e8bb50acc3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\42\42cf855b42713884aa8851e8bb50acc3.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\42\42cf855b42713884aa8851e8bb50acc3.info
+      projectPath: Library\metadata\42\42cf855b42713884aa8851e8bb50acc3.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db
+      projectPath: Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db.info
+      projectPath: Library\metadata\43\435e0ab87d10d1d46966abe3e1b854db.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\45\45e653bab7fb20e499bda25e1b646fea
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\45\45e653bab7fb20e499bda25e1b646fea
+      projectPath: Library\metadata\45\45e653bab7fb20e499bda25e1b646fea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\45\45e653bab7fb20e499bda25e1b646fea.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\45\45e653bab7fb20e499bda25e1b646fea.info
+      projectPath: Library\metadata\45\45e653bab7fb20e499bda25e1b646fea.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd
+      projectPath: Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd.info
+      projectPath: Library\metadata\46\46965f9cbaf525742a6da4c2172a99cd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988
+      projectPath: Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988.info
+      projectPath: Library\metadata\47\4700f9f03ad19f94baf0367cb7a9c988.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78
+      projectPath: Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78.info
+      projectPath: Library\metadata\47\47030f88f181f334ab93c4b8ccfe1b78.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b
+      projectPath: Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b.info
+      projectPath: Library\metadata\4a\4a9c464b0191f7d4da1d129d97d8240b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be
+      projectPath: Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be.info
+      projectPath: Library\metadata\4c\4c70d8c811055f1429b13b8c6e2036be.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38
+      projectPath: Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38.info
+      projectPath: Library\metadata\4f\4fa53a91a43ae1a4bbf6b29961b45c38.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e
+      projectPath: Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e.info
+      projectPath: Library\metadata\53\53258ad9ad6e71e48bb8643c9522112e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d
+      projectPath: Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d.info
+      projectPath: Library\metadata\54\54b24e51e2a9fa242b38d80ee11f3b2d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7
+      projectPath: Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7.info
+      projectPath: Library\metadata\55\554b0ed52734c154eab51f6cedd3a7d7.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d
+      projectPath: Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d.info
+      projectPath: Library\metadata\55\557c6f70a7173744abaa3967b6da6f5d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\57\57744762d9079934292f57896d8193e0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\57\57744762d9079934292f57896d8193e0
+      projectPath: Library\metadata\57\57744762d9079934292f57896d8193e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\57\57744762d9079934292f57896d8193e0.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\57\57744762d9079934292f57896d8193e0.info
+      projectPath: Library\metadata\57\57744762d9079934292f57896d8193e0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2
+      projectPath: Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2.info
+      projectPath: Library\metadata\57\5778d22ca832d9f47b5e73a8c5fe78a2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2
+      projectPath: Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2.info
+      projectPath: Library\metadata\5f\5f2a108eb023faf43a809979fd3d38f2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\60\6036af5730313e54699c5a693891fe90
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\60\6036af5730313e54699c5a693891fe90
+      projectPath: Library\metadata\60\6036af5730313e54699c5a693891fe90
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\60\6036af5730313e54699c5a693891fe90.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\60\6036af5730313e54699c5a693891fe90.info
+      projectPath: Library\metadata\60\6036af5730313e54699c5a693891fe90.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d
+      projectPath: Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d.info
+      projectPath: Library\metadata\62\620aee1bd928b2a4981896c6b4e1bf0d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec
+      projectPath: Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec.info
+      projectPath: Library\metadata\68\68839a4bf8790cd449d4043f5efb5aec.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68b0627ea3d796448b29ab0938f2c240
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68b0627ea3d796448b29ab0938f2c240
+      projectPath: Library\metadata\68\68b0627ea3d796448b29ab0938f2c240
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68b0627ea3d796448b29ab0938f2c240.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68b0627ea3d796448b29ab0938f2c240.info
+      projectPath: Library\metadata\68\68b0627ea3d796448b29ab0938f2c240.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68bb026fafb42b14791938953eaace77
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68bb026fafb42b14791938953eaace77
+      projectPath: Library\metadata\68\68bb026fafb42b14791938953eaace77
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\68\68bb026fafb42b14791938953eaace77.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\68\68bb026fafb42b14791938953eaace77.info
+      projectPath: Library\metadata\68\68bb026fafb42b14791938953eaace77.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0
+      projectPath: Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0.info
+      projectPath: Library\metadata\6a\6a0472cd31396f741969b8c1af8dd5a0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6a\6ad980451443d70438faac0bc6c235a0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6a\6ad980451443d70438faac0bc6c235a0
+      projectPath: Library\metadata\6a\6ad980451443d70438faac0bc6c235a0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6a\6ad980451443d70438faac0bc6c235a0.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6a\6ad980451443d70438faac0bc6c235a0.info
+      projectPath: Library\metadata\6a\6ad980451443d70438faac0bc6c235a0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063
+      projectPath: Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063.info
+      projectPath: Library\metadata\6b\6b46e8ffe448f084ab12938cb774d063.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71
+      projectPath: Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71.info
+      projectPath: Library\metadata\6c\6c26251a3e1f5ac41afa5ffb404c5f71.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29
+      projectPath: Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29.info
+      projectPath: Library\metadata\6c\6cef82e891a45884fb2b70604b0f8c29.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\71\711aad28b4057bd4783120e26ff2ee25
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\71\711aad28b4057bd4783120e26ff2ee25
+      projectPath: Library\metadata\71\711aad28b4057bd4783120e26ff2ee25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\71\711aad28b4057bd4783120e26ff2ee25.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\71\711aad28b4057bd4783120e26ff2ee25.info
+      projectPath: Library\metadata\71\711aad28b4057bd4783120e26ff2ee25.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\72\729aad4491e915a41bda2b8325cf757a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\72\729aad4491e915a41bda2b8325cf757a
+      projectPath: Library\metadata\72\729aad4491e915a41bda2b8325cf757a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\72\729aad4491e915a41bda2b8325cf757a.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\72\729aad4491e915a41bda2b8325cf757a.info
+      projectPath: Library\metadata\72\729aad4491e915a41bda2b8325cf757a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f
+      projectPath: Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f.info
+      projectPath: Library\metadata\72\72ece51f2901e7445ab60da3685d6b5f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce
+      projectPath: Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce.info
+      projectPath: Library\metadata\74\74d8c4d6e5d0338469ae46c13725f3ce.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\81\81d374a87e76af245a947c94f9271ce0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\81\81d374a87e76af245a947c94f9271ce0
+      projectPath: Library\metadata\81\81d374a87e76af245a947c94f9271ce0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\82\829e606f890b35c47aa29643517add2e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\82\829e606f890b35c47aa29643517add2e
+      projectPath: Library\metadata\82\829e606f890b35c47aa29643517add2e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\82\829e606f890b35c47aa29643517add2e.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\82\829e606f890b35c47aa29643517add2e.info
+      projectPath: Library\metadata\82\829e606f890b35c47aa29643517add2e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\86\8608ec81ee27a15488d33f9dad239e91
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\86\8608ec81ee27a15488d33f9dad239e91
+      projectPath: Library\metadata\86\8608ec81ee27a15488d33f9dad239e91
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\86\8608ec81ee27a15488d33f9dad239e91.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\86\8608ec81ee27a15488d33f9dad239e91.info
+      projectPath: Library\metadata\86\8608ec81ee27a15488d33f9dad239e91.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f
+      projectPath: Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f.info
+      projectPath: Library\metadata\86\8656080a6ad58f046abadcd6f2c0fb4f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\87\8786806e37330e349b5885f2972851b6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\87\8786806e37330e349b5885f2972851b6
+      projectPath: Library\metadata\87\8786806e37330e349b5885f2972851b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\87\8786806e37330e349b5885f2972851b6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\87\8786806e37330e349b5885f2972851b6.info
+      projectPath: Library\metadata\87\8786806e37330e349b5885f2972851b6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a
+      projectPath: Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a.info
+      projectPath: Library\metadata\89\8986fa27e90db314d8a3359520e7fd1a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\8a\8ad60cb17f7694c43a8190c617281753
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\8a\8ad60cb17f7694c43a8190c617281753
+      projectPath: Library\metadata\8a\8ad60cb17f7694c43a8190c617281753
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\8a\8ad60cb17f7694c43a8190c617281753.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\8a\8ad60cb17f7694c43a8190c617281753.info
+      projectPath: Library\metadata\8a\8ad60cb17f7694c43a8190c617281753.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\8f\8f107aadf823af24889bc290a1cca90d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\8f\8f107aadf823af24889bc290a1cca90d
+      projectPath: Library\metadata\8f\8f107aadf823af24889bc290a1cca90d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\8f\8f107aadf823af24889bc290a1cca90d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\8f\8f107aadf823af24889bc290a1cca90d.info
+      projectPath: Library\metadata\8f\8f107aadf823af24889bc290a1cca90d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\90\90fb794a295e73545af71bcdb7375791
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\90\90fb794a295e73545af71bcdb7375791
+      projectPath: Library\metadata\90\90fb794a295e73545af71bcdb7375791
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\90\90fb794a295e73545af71bcdb7375791.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\90\90fb794a295e73545af71bcdb7375791.info
+      projectPath: Library\metadata\90\90fb794a295e73545af71bcdb7375791.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f
+      projectPath: Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f.info
+      projectPath: Library\metadata\93\9384ab8608cdc3d479fe89cd51eed48f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a
+      projectPath: Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a.info
+      projectPath: Library\metadata\96\961772e8b1d75dd4a915fb8a236d5a8a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c
+      projectPath: Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c.info
+      projectPath: Library\metadata\99\99a9c787e5d1bbf48a389834c4a9641c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6
+      projectPath: Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6.info
+      projectPath: Library\metadata\99\99ab3e8b62cb69145b760fc81e2d18d6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9a\9a53087ba28aaf145a184ea363108831
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9a\9a53087ba28aaf145a184ea363108831
+      projectPath: Library\metadata\9a\9a53087ba28aaf145a184ea363108831
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9a\9a53087ba28aaf145a184ea363108831.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9a\9a53087ba28aaf145a184ea363108831.info
+      projectPath: Library\metadata\9a\9a53087ba28aaf145a184ea363108831.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9c\9c644b247df49ee47957d373411a85c3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9c\9c644b247df49ee47957d373411a85c3
+      projectPath: Library\metadata\9c\9c644b247df49ee47957d373411a85c3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9c\9c644b247df49ee47957d373411a85c3.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9c\9c644b247df49ee47957d373411a85c3.info
+      projectPath: Library\metadata\9c\9c644b247df49ee47957d373411a85c3.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31
+      projectPath: Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31.info
+      projectPath: Library\metadata\9c\9ce16cd7e31794b48b2843381cd87d31.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c
+      projectPath: Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c.info
+      projectPath: Library\metadata\9d\9d5b46a4a3526d14080bfc4bb247664c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94
+      projectPath: Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94.info
+      projectPath: Library\metadata\9f\9f96161bfc85a364aac3baa0b7279f94.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904
+      projectPath: Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904.info
+      projectPath: Library\metadata\a2\a200b19ca1a9685429ed7e043c28e904.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80
+      projectPath: Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80.info
+      projectPath: Library\metadata\a2\a2fba25a5cd15594e8f050a11e386c80.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666
+      projectPath: Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666.info
+      projectPath: Library\metadata\a3\a3dacaec0287d7444b4bd276816e1666.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a4\a4c41ac9245b87c4192012080077d830
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a4\a4c41ac9245b87c4192012080077d830
+      projectPath: Library\metadata\a4\a4c41ac9245b87c4192012080077d830
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a4\a4c41ac9245b87c4192012080077d830.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a4\a4c41ac9245b87c4192012080077d830.info
+      projectPath: Library\metadata\a4\a4c41ac9245b87c4192012080077d830.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7
+      projectPath: Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7.info
+      projectPath: Library\metadata\a6\a60d9407e2bb20e4ea00281b1e33eae7.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a63f9f2267c36684e855add13ad5499f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a6\a63f9f2267c36684e855add13ad5499f
+      projectPath: Library\metadata\a6\a63f9f2267c36684e855add13ad5499f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a63f9f2267c36684e855add13ad5499f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a6\a63f9f2267c36684e855add13ad5499f.info
+      projectPath: Library\metadata\a6\a63f9f2267c36684e855add13ad5499f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d
+      projectPath: Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d.info
+      projectPath: Library\metadata\a7\a73149a4b6c41d741bc5e4e3b7711c0d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ac\ac0b09e7857660247b1477e93731de29
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ac\ac0b09e7857660247b1477e93731de29
+      projectPath: Library\metadata\ac\ac0b09e7857660247b1477e93731de29
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ac\ac0b09e7857660247b1477e93731de29.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ac\ac0b09e7857660247b1477e93731de29.info
+      projectPath: Library\metadata\ac\ac0b09e7857660247b1477e93731de29.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa
+      projectPath: Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa.info
+      projectPath: Library\metadata\ac\aceb1a3f85f55c249bba6eaade29f2aa.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ad\adf097c12090c9146bca06531feedfc2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ad\adf097c12090c9146bca06531feedfc2
+      projectPath: Library\metadata\ad\adf097c12090c9146bca06531feedfc2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ad\adf097c12090c9146bca06531feedfc2.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ad\adf097c12090c9146bca06531feedfc2.info
+      projectPath: Library\metadata\ad\adf097c12090c9146bca06531feedfc2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112
+      projectPath: Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112.info
+      projectPath: Library\metadata\b2\b241f91b9ccf8ff489abf204b30d3112.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b2\b2f73bdc979030e419f33c10913639cc
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b2\b2f73bdc979030e419f33c10913639cc
+      projectPath: Library\metadata\b2\b2f73bdc979030e419f33c10913639cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b2\b2f73bdc979030e419f33c10913639cc.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b2\b2f73bdc979030e419f33c10913639cc.info
+      projectPath: Library\metadata\b2\b2f73bdc979030e419f33c10913639cc.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b
+      projectPath: Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b.info
+      projectPath: Library\metadata\b7\b7f59e54f2bfd184b9dd451a678d089b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc
+      projectPath: Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc.info
+      projectPath: Library\metadata\ba\ba59c38a116ff2f4fb69f825ba0da3bc.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d
+      projectPath: Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d.info
+      projectPath: Library\metadata\bf\bf34fbe7a6e71634493d770ed0031f9d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c
+      projectPath: Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c.info
+      projectPath: Library\metadata\c2\c2a918f460a69394eb9726b31e1d404c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd
+      projectPath: Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd.info
+      projectPath: Library\metadata\c5\c5da6ce9225f948438f7d6a072499ecd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8
+      projectPath: Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8.info
+      projectPath: Library\metadata\c7\c7d73314dfe49f8458398c6dc8edcda8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6
+      projectPath: Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6.info
+      projectPath: Library\metadata\c8\c88d2a04cc828c044b0fcc133fd481e6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065
+      projectPath: Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065.info
+      projectPath: Library\metadata\ca\ca058052cfb44474dbd1f8ec45658065.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ca\ca2168befea188b41a64ed01e777e286
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ca\ca2168befea188b41a64ed01e777e286
+      projectPath: Library\metadata\ca\ca2168befea188b41a64ed01e777e286
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ca\ca2168befea188b41a64ed01e777e286.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ca\ca2168befea188b41a64ed01e777e286.info
+      projectPath: Library\metadata\ca\ca2168befea188b41a64ed01e777e286.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919
+      projectPath: Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919.info
+      projectPath: Library\metadata\d0\d093acf2bada69e4bbbcf0a8b4534919.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c
+      projectPath: Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c.info
+      projectPath: Library\metadata\d3\d30409ab90458e5409807c8b0274ac9c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d4\d4a408a1b506d0046875061c677944d8
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d4\d4a408a1b506d0046875061c677944d8
+      projectPath: Library\metadata\d4\d4a408a1b506d0046875061c677944d8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d4\d4a408a1b506d0046875061c677944d8.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d4\d4a408a1b506d0046875061c677944d8.info
+      projectPath: Library\metadata\d4\d4a408a1b506d0046875061c677944d8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9
+      projectPath: Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9.info
+      projectPath: Library\metadata\d6\d62f748f5292bb343be9e6b0c84416d9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c
+      projectPath: Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c.info
+      projectPath: Library\metadata\d8\d8623b6a09cb5ab4ea2c51347a3a074c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55
+      projectPath: Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55.info
+      projectPath: Library\metadata\d9\d9ca844c06be1ab40a3f7fc9e3c42c55.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\dd\dd250831792c9924fa009546befab264
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\dd\dd250831792c9924fa009546befab264
+      projectPath: Library\metadata\dd\dd250831792c9924fa009546befab264
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\de\dec69862942cc9744ade63216979cafd
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\de\dec69862942cc9744ade63216979cafd
+      projectPath: Library\metadata\de\dec69862942cc9744ade63216979cafd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\de\dec69862942cc9744ade63216979cafd.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\de\dec69862942cc9744ade63216979cafd.info
+      projectPath: Library\metadata\de\dec69862942cc9744ade63216979cafd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb
+      projectPath: Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb.info
+      projectPath: Library\metadata\e4\e44b92e217bfdf24d99acb4344918eeb.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f
+      projectPath: Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f.info
+      projectPath: Library\metadata\e5\e501d18bb52cf8c40b1853ca4904654f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39
+      projectPath: Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39.info
+      projectPath: Library\metadata\e5\e54b95371574a3144b851b0ca93ceb39.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731
+      projectPath: Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731.info
+      projectPath: Library\metadata\e5\e5eb80d8e62d9d145bb50fb783c0f731.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2
+      projectPath: Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2.info
+      projectPath: Library\metadata\e8\e8413e2c94231d544b120f2b71d432e2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\eb\eb8e037cb3f873743a725427c8c22342
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\eb\eb8e037cb3f873743a725427c8c22342
+      projectPath: Library\metadata\eb\eb8e037cb3f873743a725427c8c22342
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\eb\eb8e037cb3f873743a725427c8c22342.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\eb\eb8e037cb3f873743a725427c8c22342.info
+      projectPath: Library\metadata\eb\eb8e037cb3f873743a725427c8c22342.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31
+      projectPath: Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31.info
+      projectPath: Library\metadata\ed\ed3efd28525441947b55ec9b5d68ba31.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ee\ee42f1964a0e8224c90be81905946699
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ee\ee42f1964a0e8224c90be81905946699
+      projectPath: Library\metadata\ee\ee42f1964a0e8224c90be81905946699
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\ee\ee42f1964a0e8224c90be81905946699.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\ee\ee42f1964a0e8224c90be81905946699.info
+      projectPath: Library\metadata\ee\ee42f1964a0e8224c90be81905946699.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f1\f15624949ca514549b2f04481b49bdd0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f1\f15624949ca514549b2f04481b49bdd0
+      projectPath: Library\metadata\f1\f15624949ca514549b2f04481b49bdd0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f1\f15624949ca514549b2f04481b49bdd0.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f1\f15624949ca514549b2f04481b49bdd0.info
+      projectPath: Library\metadata\f1\f15624949ca514549b2f04481b49bdd0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f2\f24a4388d07ef494e8516cb859803e09
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f2\f24a4388d07ef494e8516cb859803e09
+      projectPath: Library\metadata\f2\f24a4388d07ef494e8516cb859803e09
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f2\f24a4388d07ef494e8516cb859803e09.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f2\f24a4388d07ef494e8516cb859803e09.info
+      projectPath: Library\metadata\f2\f24a4388d07ef494e8516cb859803e09.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc
+      projectPath: Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc.info
+      projectPath: Library\metadata\f3\f34e35dc1dc67c54c841b728548d69cc.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f4\f4044717213e31446939f7bd49c896ea
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f4\f4044717213e31446939f7bd49c896ea
+      projectPath: Library\metadata\f4\f4044717213e31446939f7bd49c896ea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f4\f4044717213e31446939f7bd49c896ea.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f4\f4044717213e31446939f7bd49c896ea.info
+      projectPath: Library\metadata\f4\f4044717213e31446939f7bd49c896ea.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93
+      projectPath: Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93.info
+      projectPath: Library\metadata\f4\f497b01325ac7a041bd6e365a9ea0e93.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b
+      projectPath: Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b.info
+      projectPath: Library\metadata\f6\f6542fc5402b30a4482cd20a3621602b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b
+      projectPath: Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b.info
+      projectPath: Library\metadata\f9\f9e81eceaa4926345af2955aff7cf00b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fa\fa7155796051b734daa718462081dc5f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fa\fa7155796051b734daa718462081dc5f
+      projectPath: Library\metadata\fa\fa7155796051b734daa718462081dc5f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fa\fa7155796051b734daa718462081dc5f.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fa\fa7155796051b734daa718462081dc5f.info
+      projectPath: Library\metadata\fa\fa7155796051b734daa718462081dc5f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fc\fca2bf25139920d4f9bf86711457992e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fc\fca2bf25139920d4f9bf86711457992e
+      projectPath: Library\metadata\fc\fca2bf25139920d4f9bf86711457992e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fc\fca2bf25139920d4f9bf86711457992e.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fc\fca2bf25139920d4f9bf86711457992e.info
+      projectPath: Library\metadata\fc\fca2bf25139920d4f9bf86711457992e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7
+      projectPath: Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7.info
+      projectPath: Library\metadata\fd\fd10c4a322c950342a9d03a14ae879b7.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 711dd39a3e06e913191b540fc4c468fa2571a3a1
     mergeA: 052e6f5e28cfee6eeac757ab2876d8f0d12e2363
     mergeB: 05127732459ed721ecdb3939213d6315fd9a6821

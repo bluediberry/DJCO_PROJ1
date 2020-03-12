@@ -4,13 +4,12 @@ using UnityEngine;
 
 public class PlayerPlatformerController : PhysicsObject {
 
-    public float maxSpeed = 7;
-    public float jumpTakeOffSpeed = 7;
-    const float Move_Delta = -0.01f;    // Place at top of script - change to whatever value is comfortable
-
-
+    public float maxSpeed = 10;
+    public float jumpTakeOffSpeed = 30;
+    const float Move_Delta = 0.01f;    // Place at top of script - change to whatever value is comfortable
+    [SerializeField] private GameObject graphic;
+    [SerializeField] private Animator animator;
     private SpriteRenderer spriteRenderer;
-    private Animator animator;
 
 
     // Use this for initialization
@@ -36,21 +35,25 @@ public class PlayerPlatformerController : PhysicsObject {
         }
 
          // If we have movement, set our flip - else keep our last flipped state
-        /*if (Mathf.Abs(move.x) > Move_Delta)
+  
+            if (Mathf.Abs(move.x) > Move_Delta)
+            {
+                transform.localScale = move.x > Move_Delta ? new Vector2(0.3008129f, 0.290336f) : new Vector2(-0.3008129f, 0.290336f);
+
+            }
+
+
+
+        /* if (Mathf.Abs(move.x) > Move_Delta )
           {
-              // this true false may need to be reversed - If its flipping the wrong way, change them the other way.
-               spriteRenderer.flipX = move.x > Move_Delta ? false : true;
-          }*/
+             transform.localScale = move.x > Move_Delta ? new Vector2(0.3008129f, 0.290336f) : new Vector2(-0.3008129f, 0.290336f);
 
-        if (Mathf.Abs(move.x) > Move_Delta )
-         {
-            transform.localScale = move.x > Move_Delta ? new Vector2(0.3008129f, 0.290336f) : new Vector2(-0.3008129f, 0.290336f);
+         }*/
 
-        }
- 
-        animator.SetBool ("grounded", grounded);
-        animator.SetFloat ("velocityX", Mathf.Abs (velocity.x) / maxSpeed);
-
+  
+            animator.SetBool("grounded", grounded);
+            animator.SetFloat("velocityX", Mathf.Abs(velocity.x) / maxSpeed);
+        
         targetVelocity = move * maxSpeed;
     }
 }
