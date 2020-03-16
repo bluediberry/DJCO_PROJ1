@@ -10,9 +10,9 @@ public class PlayerPlatformerController : PhysicsObject {
     [SerializeField] private GameObject graphic;
     [SerializeField] private Animator animator;
     private SpriteRenderer spriteRenderer;
+    public TimerScript timer;
 
-
-    // Use this for initialization
+    // Use this for initializati
     void Awake () 
     {
         spriteRenderer = GetComponent<SpriteRenderer> ();
@@ -56,4 +56,5 @@ public class PlayerPlatformerController : PhysicsObject {
         
         targetVelocity = move * maxSpeed;
     }
+
 }

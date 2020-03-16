@@ -6,12 +6,27 @@ using UnityEngine.UI;
 public class TimerScript : MonoBehaviour
 {
     Image timerBar;
-    public float maxTime = 5f;
+    public float maxTime = 20f;
     public float timeLeft;
     public GameObject timesUpText;
 
-    // Start is called before the first frame update
-    void Start()
+
+    static TimerScript _instance;
+
+    void Awake()
+    {
+        //register this countdown instance:
+        _instance = this;
+    }
+
+    public static void ModifyTimer(float byAmount)
+    {
+        _instance.timeLeft += byAmount;
+    }
+
+
+// Start is called before the first frame update
+void Start()
     {
         timesUpText.SetActive(false);
         timerBar = GetComponent<Image>();
@@ -32,5 +47,5 @@ public class TimerScript : MonoBehaviour
             Time.timeScale = 0;
         }
     }
-    
 }
+

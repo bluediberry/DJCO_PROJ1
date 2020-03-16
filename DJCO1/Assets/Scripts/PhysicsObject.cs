@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class PhysicsObject : MonoBehaviour {
 
     public float minGroundNormalY = .65f;
@@ -108,4 +109,18 @@ public class PhysicsObject : MonoBehaviour {
 
     }
 
+    void OnCollisionEnter2D(Collision2D coll)
+    {
+        //is it ICollectible:
+        ICollectible collectible = coll.gameObject.GetComponent<ICollectible>();
+        if (collectible != null)
+        {
+            //collectible! ( ͡° ͜ʖ ͡°)
+            collectible.OnCollected();
+        }
+        {
+            //no collectible!
+            //(╯°□°）╯︵ ┻━┻
+        }
+    }
 }
