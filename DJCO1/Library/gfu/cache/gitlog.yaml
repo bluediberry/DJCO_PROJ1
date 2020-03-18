@@ -13,9 +13,562 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-17T18:47:45.757+00:00
-  initializedAtString: 2020-03-17T18:47:45.757+00:00
+  lastUpdatedAtString: 2020-03-18T16:35:27.977+00:00
+  initializedAtString: 2020-03-18T15:52:42.195+00:00
   log:
+  - commitID: 617c237ae7a68dd07b133cc85284bd30e9c1b019
+    mergeA: 
+    mergeB: 
+    authorName: Mariana Neto
+    authorEmail: 32868723+bluediberry@users.noreply.github.com
+    commitEmail: 32868723+bluediberry@users.noreply.github.com
+    commitName: Mariana Neto
+    summary: updated colectibles
+    description: 
+    timeString: 2020-03-17T19:16:13.000+00:00
+    commitTimeString: 2020-03-17T19:16:13.000+00:00
+    changes:
+    - path: DJCO1\Assets\Objects.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects.meta
+      projectPath: Assets\Objects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\NoStuck.physicsMaterial2D
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\NoStuck.physicsMaterial2D
+      projectPath: Assets\Objects\NoStuck.physicsMaterial2D
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\NoStuck.physicsMaterial2D.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\NoStuck.physicsMaterial2D.meta
+      projectPath: Assets\Objects\NoStuck.physicsMaterial2D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\coffe.png
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\coffe.png
+      projectPath: Assets\Objects\coffe.png
+      originalPath: DJCO1\Assets\coffe.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\coffe.png.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\coffe.png.meta
+      projectPath: Assets\Objects\coffe.png.meta
+      originalPath: DJCO1\Assets\coffe.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\laptop.gif
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\laptop.gif
+      projectPath: Assets\Objects\laptop.gif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Objects\laptop.gif.meta
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Objects\laptop.gif.meta
+      projectPath: Assets\Objects\laptop.gif.meta
+      originalPath: DJCO1\Assets\progress.jpg.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Player\Idle (9).controller
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Player\Idle
+        (9).controller
+      projectPath: Assets\Player\Idle (9).controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\progress.jpg
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Assets\progress.jpg
+      projectPath: Assets\progress.jpg
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\EditorInstance.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8
+      projectPath: Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8.info
+      projectPath: Library\metadata\3c\3c76a7611c7d9c14b9fd1855bf58afd8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6
+      projectPath: Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6.info
+      projectPath: Library\metadata\4d\4db54ac4ba8e3f74d95f9348f1a53bf6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943
+      projectPath: Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943.info
+      projectPath: Library\metadata\6d\6d0cb064a21fd704190e1c3b8a533943.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\82\824efcc3706227342a5bf415de17a783
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\82\824efcc3706227342a5bf415de17a783
+      projectPath: Library\metadata\82\824efcc3706227342a5bf415de17a783
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\82\824efcc3706227342a5bf415de17a783.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\82\824efcc3706227342a5bf415de17a783.info
+      projectPath: Library\metadata\82\824efcc3706227342a5bf415de17a783.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a
+      projectPath: Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a.info
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a.info
+      projectPath: Library\metadata\c2\c2efafda5a7009a4ca94fd5a426c6c0a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-00440097bd142e24eb473193f81fd7b9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-00440097bd142e24eb473193f81fd7b9
+      projectPath: Temp\UnityTempFile-00440097bd142e24eb473193f81fd7b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1433ca8d68b7f62479433d3260e46d45
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1433ca8d68b7f62479433d3260e46d45
+      projectPath: Temp\UnityTempFile-1433ca8d68b7f62479433d3260e46d45
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-150a7a665aef7be49ab5ca267c06ac61
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-150a7a665aef7be49ab5ca267c06ac61
+      projectPath: Temp\UnityTempFile-150a7a665aef7be49ab5ca267c06ac61
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1da4e4bafcb6087488daad832b35bfcf
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1da4e4bafcb6087488daad832b35bfcf
+      projectPath: Temp\UnityTempFile-1da4e4bafcb6087488daad832b35bfcf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1f626eef4a384f04eaf1f9b9df184d73
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1f626eef4a384f04eaf1f9b9df184d73
+      projectPath: Temp\UnityTempFile-1f626eef4a384f04eaf1f9b9df184d73
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1fa39c9b1150f9d4187881b4b7f3ebb1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1fa39c9b1150f9d4187881b4b7f3ebb1
+      projectPath: Temp\UnityTempFile-1fa39c9b1150f9d4187881b4b7f3ebb1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-2555bfcb60012d6409e67c8b6ef61b06
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-2555bfcb60012d6409e67c8b6ef61b06
+      projectPath: Temp\UnityTempFile-2555bfcb60012d6409e67c8b6ef61b06
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-28fdcae7955b505418e3faff97378800
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-28fdcae7955b505418e3faff97378800
+      projectPath: Temp\UnityTempFile-28fdcae7955b505418e3faff97378800
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-2b6683b624bc6dc49830432bf5c1784a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-2b6683b624bc6dc49830432bf5c1784a
+      projectPath: Temp\UnityTempFile-2b6683b624bc6dc49830432bf5c1784a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-300f4a5724349574da6b7198ebe615ed
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-300f4a5724349574da6b7198ebe615ed
+      projectPath: Temp\UnityTempFile-300f4a5724349574da6b7198ebe615ed
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-34a309dd45e1a0342830e0018a12b894
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-34a309dd45e1a0342830e0018a12b894
+      projectPath: Temp\UnityTempFile-34a309dd45e1a0342830e0018a12b894
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-36b1814fa305f7e4290f4930d8a2f142
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-36b1814fa305f7e4290f4930d8a2f142
+      projectPath: Temp\UnityTempFile-36b1814fa305f7e4290f4930d8a2f142
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-39cc47e67fed2034887d4721c6da45a5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-39cc47e67fed2034887d4721c6da45a5
+      projectPath: Temp\UnityTempFile-39cc47e67fed2034887d4721c6da45a5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-39cf743aaf928524699b071489f577cb
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-39cf743aaf928524699b071489f577cb
+      projectPath: Temp\UnityTempFile-39cf743aaf928524699b071489f577cb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-3c14dd4c65b4f6d40acd5f2feb6963cf
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-3c14dd4c65b4f6d40acd5f2feb6963cf
+      projectPath: Temp\UnityTempFile-3c14dd4c65b4f6d40acd5f2feb6963cf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-3da265e6af27f0f49a799dffa345b6a7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-3da265e6af27f0f49a799dffa345b6a7
+      projectPath: Temp\UnityTempFile-3da265e6af27f0f49a799dffa345b6a7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-4a999270990e05f4abe170cd21c56fe2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-4a999270990e05f4abe170cd21c56fe2
+      projectPath: Temp\UnityTempFile-4a999270990e05f4abe170cd21c56fe2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-4bf7932e6afb04940abb5a04c2c276bf
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-4bf7932e6afb04940abb5a04c2c276bf
+      projectPath: Temp\UnityTempFile-4bf7932e6afb04940abb5a04c2c276bf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-4c98a8b1f1b87e047a729ae696a370f1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-4c98a8b1f1b87e047a729ae696a370f1
+      projectPath: Temp\UnityTempFile-4c98a8b1f1b87e047a729ae696a370f1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-4f8d55bfbf469cd41a4c55cbe3cee5b8
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-4f8d55bfbf469cd41a4c55cbe3cee5b8
+      projectPath: Temp\UnityTempFile-4f8d55bfbf469cd41a4c55cbe3cee5b8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-559ee72c2edbe9248a21b515144d8d52
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-559ee72c2edbe9248a21b515144d8d52
+      projectPath: Temp\UnityTempFile-559ee72c2edbe9248a21b515144d8d52
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-563b81592216056429ea92f673753f34
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-563b81592216056429ea92f673753f34
+      projectPath: Temp\UnityTempFile-563b81592216056429ea92f673753f34
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-584da1b533d8ea44a8d9c449eace022e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-584da1b533d8ea44a8d9c449eace022e
+      projectPath: Temp\UnityTempFile-584da1b533d8ea44a8d9c449eace022e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5a2631d01701dd440b38315b18583f84
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-5a2631d01701dd440b38315b18583f84
+      projectPath: Temp\UnityTempFile-5a2631d01701dd440b38315b18583f84
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5d01e16a7aecbfb4395ccd68d031c874
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-5d01e16a7aecbfb4395ccd68d031c874
+      projectPath: Temp\UnityTempFile-5d01e16a7aecbfb4395ccd68d031c874
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-61ea87576d614594f9c9b5e2ad4bb7f5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-61ea87576d614594f9c9b5e2ad4bb7f5
+      projectPath: Temp\UnityTempFile-61ea87576d614594f9c9b5e2ad4bb7f5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-685ac990d68b23d4f84ee810894ba836
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-685ac990d68b23d4f84ee810894ba836
+      projectPath: Temp\UnityTempFile-685ac990d68b23d4f84ee810894ba836
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-6899e11b96a8aaa4ca64749a144890d7
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-6899e11b96a8aaa4ca64749a144890d7
+      projectPath: Temp\UnityTempFile-6899e11b96a8aaa4ca64749a144890d7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-74d508c5fc0e6a345ae21d8671b8473e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-74d508c5fc0e6a345ae21d8671b8473e
+      projectPath: Temp\UnityTempFile-74d508c5fc0e6a345ae21d8671b8473e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-77d272426bec1a2408e1a176614521b1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-77d272426bec1a2408e1a176614521b1
+      projectPath: Temp\UnityTempFile-77d272426bec1a2408e1a176614521b1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-7e2ab8fec2562154d89b9374753d3c06
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-7e2ab8fec2562154d89b9374753d3c06
+      projectPath: Temp\UnityTempFile-7e2ab8fec2562154d89b9374753d3c06
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-804c52a66d074344f9718181a5e3f817
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-804c52a66d074344f9718181a5e3f817
+      projectPath: Temp\UnityTempFile-804c52a66d074344f9718181a5e3f817
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-8132e7fc4a426614f95942d053c9478d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-8132e7fc4a426614f95942d053c9478d
+      projectPath: Temp\UnityTempFile-8132e7fc4a426614f95942d053c9478d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-854052eb10221c346844a3c58575afa3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-854052eb10221c346844a3c58575afa3
+      projectPath: Temp\UnityTempFile-854052eb10221c346844a3c58575afa3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-859c09cdaf4e5584a9f6442109e70571
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-859c09cdaf4e5584a9f6442109e70571
+      projectPath: Temp\UnityTempFile-859c09cdaf4e5584a9f6442109e70571
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-85f16bb3045223a4f82afda7361fcb00
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-85f16bb3045223a4f82afda7361fcb00
+      projectPath: Temp\UnityTempFile-85f16bb3045223a4f82afda7361fcb00
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-9970134f4eb0d0f4cb89b1cf034a889c
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-9970134f4eb0d0f4cb89b1cf034a889c
+      projectPath: Temp\UnityTempFile-9970134f4eb0d0f4cb89b1cf034a889c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-9d18f3d58afbf264781204f7d2bd6572
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-9d18f3d58afbf264781204f7d2bd6572
+      projectPath: Temp\UnityTempFile-9d18f3d58afbf264781204f7d2bd6572
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a3021d7b9351e4449bd12aa3292c694e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a3021d7b9351e4449bd12aa3292c694e
+      projectPath: Temp\UnityTempFile-a3021d7b9351e4449bd12aa3292c694e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a38d39d7031b45e49b540c08627427b5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a38d39d7031b45e49b540c08627427b5
+      projectPath: Temp\UnityTempFile-a38d39d7031b45e49b540c08627427b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a49749405139d384eaf3233b90636fda
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a49749405139d384eaf3233b90636fda
+      projectPath: Temp\UnityTempFile-a49749405139d384eaf3233b90636fda
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a8bef31cd998e7c40a8697edb2158cd2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a8bef31cd998e7c40a8697edb2158cd2
+      projectPath: Temp\UnityTempFile-a8bef31cd998e7c40a8697edb2158cd2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-b49314c993208e04b93e9709efe19b76
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-b49314c993208e04b93e9709efe19b76
+      projectPath: Temp\UnityTempFile-b49314c993208e04b93e9709efe19b76
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c2a0df9066443d94583f35aaaea44e1d
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-c2a0df9066443d94583f35aaaea44e1d
+      projectPath: Temp\UnityTempFile-c2a0df9066443d94583f35aaaea44e1d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c57222e33120bec4d844652f2d2ebf16
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-c57222e33120bec4d844652f2d2ebf16
+      projectPath: Temp\UnityTempFile-c57222e33120bec4d844652f2d2ebf16
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c9042826c84d31c47993086d8040266b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-c9042826c84d31c47993086d8040266b
+      projectPath: Temp\UnityTempFile-c9042826c84d31c47993086d8040266b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-cb199104fa9088c448625bd8c009f2a2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-cb199104fa9088c448625bd8c009f2a2
+      projectPath: Temp\UnityTempFile-cb199104fa9088c448625bd8c009f2a2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-cbc18dafab3e86040aef07f8b9da8c83
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-cbc18dafab3e86040aef07f8b9da8c83
+      projectPath: Temp\UnityTempFile-cbc18dafab3e86040aef07f8b9da8c83
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-d9a47f22fd216424eb2bdb4c0e769b65
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-d9a47f22fd216424eb2bdb4c0e769b65
+      projectPath: Temp\UnityTempFile-d9a47f22fd216424eb2bdb4c0e769b65
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-dbb36486bb4a49a498e0f7c699d77fe5
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-dbb36486bb4a49a498e0f7c699d77fe5
+      projectPath: Temp\UnityTempFile-dbb36486bb4a49a498e0f7c699d77fe5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-dc25993f2b9eeee41b4127b6cc7f372f
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-dc25993f2b9eeee41b4127b6cc7f372f
+      projectPath: Temp\UnityTempFile-dc25993f2b9eeee41b4127b6cc7f372f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-dd7a179eb6520224888abf891eade537
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-dd7a179eb6520224888abf891eade537
+      projectPath: Temp\UnityTempFile-dd7a179eb6520224888abf891eade537
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-df6e19864e2dcd549831927899b633cc
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-df6e19864e2dcd549831927899b633cc
+      projectPath: Temp\UnityTempFile-df6e19864e2dcd549831927899b633cc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-e873a2ba8489eab4da38961c80bc44e6
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-e873a2ba8489eab4da38961c80bc44e6
+      projectPath: Temp\UnityTempFile-e873a2ba8489eab4da38961c80bc44e6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-ee719fa1c1152d740baa883c8f7c3abf
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-ee719fa1c1152d740baa883c8f7c3abf
+      projectPath: Temp\UnityTempFile-ee719fa1c1152d740baa883c8f7c3abf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-f27192b7405ff8142b902cf2beb38161
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-f27192b7405ff8142b902cf2beb38161
+      projectPath: Temp\UnityTempFile-f27192b7405ff8142b902cf2beb38161
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-f8d9fd887f078d946b474b2e3ef5c71b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-f8d9fd887f078d946b474b2e3ef5c71b
+      projectPath: Temp\UnityTempFile-f8d9fd887f078d946b474b2e3ef5c71b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-fa8892deb79133b42a57f43281a79a22
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-fa8892deb79133b42a57f43281a79a22
+      projectPath: Temp\UnityTempFile-fa8892deb79133b42a57f43281a79a22
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-fe495b9bcc72d744ea16595a205d9052
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-fe495b9bcc72d744ea16595a205d9052
+      projectPath: Temp\UnityTempFile-fe495b9bcc72d744ea16595a205d9052
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-feeebdc234cc43545bc9b9902d80437e
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-feeebdc234cc43545bc9b9902d80437e
+      projectPath: Temp\UnityTempFile-feeebdc234cc43545bc9b9902d80437e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1\DJCO1\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 4501764ae70200f5006888f626a3b9006b98f16b
     mergeA: 
     mergeB: 
