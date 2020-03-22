@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-03-22T13:59:01.913+00:00
+  lastUpdatedAtString: 2020-03-22T15:21:11.542+00:00
   initializedAtString: 2020-03-22T13:59:01.834+00:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/bluediberry/DJCO_PROJ1.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/bluediberry/DJCO_PROJ1.git

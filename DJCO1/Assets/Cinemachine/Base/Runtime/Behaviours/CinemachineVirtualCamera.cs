@@ -461,4 +461,5 @@ namespace Cinemachine
         // This is a hack for FreeLook rigs - to be removed
         internal void SetStateRawPosition(Vector3 pos) { m_State.RawPosition = pos; }
     }
+
 }
