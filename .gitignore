@@ -65,3 +65,5 @@ DJCO1/Temp/UnityLockfile
 
 *.yaml
 *.dll
+*.bin
+*.resS

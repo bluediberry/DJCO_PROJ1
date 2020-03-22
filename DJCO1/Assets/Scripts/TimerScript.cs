@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class TimerScript : MonoBehaviour
 {
     Image timerBar;
-    public float maxTime = 50f;
+    public float maxTime = 100f;
     public float timeLeft;
     public GameObject timesUpText;
 
