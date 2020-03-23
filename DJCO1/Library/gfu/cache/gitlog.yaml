@@ -13,9 +13,297 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-23T19:02:55.881+00:00
+  lastUpdatedAtString: 2020-03-23T21:13:49.018+00:00
   initializedAtString: 2020-03-23T17:53:16.251+00:00
   log:
+  - commitID: 54dd1c72fe3878a1cacde94263980f65d3b8b28c
+    mergeA: 
+    mergeB: 
+    authorName: Mariana Monteiro e Neto
+    authorEmail: up201606791@fe.up.pt
+    commitEmail: up201606791@fe.up.pt
+    commitName: Mariana Monteiro e Neto
+    summary: fixed bug
+    description: 
+    timeString: 2020-03-23T19:04:29.000+00:00
+    commitTimeString: 2020-03-23T19:04:29.000+00:00
+    changes:
+    - path: DJCO1\Assets\Scenes\Game.unity
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scripts\TimerScript.cs
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Assets\Scripts\TimerScript.cs
+      projectPath: Assets\Scripts\TimerScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\LastBuild.buildreport
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\boot.config
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\boot.config
+      projectPath: Library\PlayerDataCache\Win64\Data\boot.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\level0
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\level0
+      projectPath: Library\PlayerDataCache\Win64\Data\level0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\level1
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\level1
+      projectPath: Library\PlayerDataCache\Win64\Data\level1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\level2
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\level2
+      projectPath: Library\PlayerDataCache\Win64\Data\level2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\level3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\level3
+      projectPath: Library\PlayerDataCache\Win64\Data\level3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\resources.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\resources.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\fd\fd9dc0a7b89ed184b9f5638450540c9b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\metadata\fd\fd9dc0a7b89ed184b9f5638450540c9b
+      projectPath: Library\metadata\fd\fd9dc0a7b89ed184b9f5638450540c9b
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-006310d9c45ac3142a086fde5a15709b
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-006310d9c45ac3142a086fde5a15709b
+      projectPath: Temp\UnityTempFile-006310d9c45ac3142a086fde5a15709b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-00c493f5baa9cb74ea365b2dc90a9a1a
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-00c493f5baa9cb74ea365b2dc90a9a1a
+      projectPath: Temp\UnityTempFile-00c493f5baa9cb74ea365b2dc90a9a1a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1537fa2e6294c4546a995f45b4889e35
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1537fa2e6294c4546a995f45b4889e35
+      projectPath: Temp\UnityTempFile-1537fa2e6294c4546a995f45b4889e35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-1e29fe6fa8c210d4082083195594c2a8
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-1e29fe6fa8c210d4082083195594c2a8
+      projectPath: Temp\UnityTempFile-1e29fe6fa8c210d4082083195594c2a8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-31b43cd348baea74da0bcce900809308
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-31b43cd348baea74da0bcce900809308
+      projectPath: Temp\UnityTempFile-31b43cd348baea74da0bcce900809308
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5ec7d7b3f1845134c97a7f8ab36b6f24
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-5ec7d7b3f1845134c97a7f8ab36b6f24
+      projectPath: Temp\UnityTempFile-5ec7d7b3f1845134c97a7f8ab36b6f24
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-6d3adb97d44ed7f4f8432ac174bb1738
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-6d3adb97d44ed7f4f8432ac174bb1738
+      projectPath: Temp\UnityTempFile-6d3adb97d44ed7f4f8432ac174bb1738
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-760f85807a7cf9d48be87040a8fdede9
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-760f85807a7cf9d48be87040a8fdede9
+      projectPath: Temp\UnityTempFile-760f85807a7cf9d48be87040a8fdede9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-77aebdc1dcdf7484fa37239a6bce6dc3
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-77aebdc1dcdf7484fa37239a6bce6dc3
+      projectPath: Temp\UnityTempFile-77aebdc1dcdf7484fa37239a6bce6dc3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a7fc98f049aee3448beb5039d20288cd
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-a7fc98f049aee3448beb5039d20288cd
+      projectPath: Temp\UnityTempFile-a7fc98f049aee3448beb5039d20288cd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-af7b4ad1316167e498bccb5fa01f6737
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-af7b4ad1316167e498bccb5fa01f6737
+      projectPath: Temp\UnityTempFile-af7b4ad1316167e498bccb5fa01f6737
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c60750a1a8773d74fb3f699006586544
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\UnityTempFile-c60750a1a8773d74fb3f699006586544
+      projectPath: Temp\UnityTempFile-c60750a1a8773d74fb3f699006586544
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ba0dddf71fc9ba535c6cbec173bbec70e4fb7b24
     mergeA: 
     mergeB: 
