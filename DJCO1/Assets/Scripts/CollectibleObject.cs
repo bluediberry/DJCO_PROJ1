@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 /// <summary>
 /// Collectible object
@@ -18,10 +19,17 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     /// </summary>
     public void OnCollected()
     {
+
+        if (gameObject.tag == "Coffee")
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+
         //modify timer:
         TimerScript.ModifyTimer(timerDelta);
 
         //disable this object:
         gameObject.SetActive(false);
+
     }
 }

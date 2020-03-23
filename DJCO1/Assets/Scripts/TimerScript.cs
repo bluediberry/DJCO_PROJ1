@@ -13,6 +13,7 @@ public class TimerScript : MonoBehaviour
 
     static TimerScript _instance;
 
+
     void Awake()
     {
         //register this countdown instance:
@@ -47,5 +48,6 @@ void Start()
             Time.timeScale = 0;
         }
     }
+
 }
 
