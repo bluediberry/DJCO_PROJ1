@@ -12,7 +12,7 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     /// <summary>
     /// Timer delta on collected
     /// </summary>
-    public float timerDelta = 10f;
+    public float timerDelta = 30f;
 
     /// <summary>
     /// Implementation code for intereface ICollectible's "OnCollected" method

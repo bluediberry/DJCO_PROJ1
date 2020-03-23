@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndGame.unity
     guid: f37dd0ed1be7e314fa08c9bc07e6d8de
+  - enabled: 1
+    path: Assets/Scenes/TimeOut.unity
+    guid: 7f52ba5a11a488c4c80b7efa7452a51a
   m_configObjects: {}

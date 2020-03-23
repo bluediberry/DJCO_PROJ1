@@ -1,14 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TimerScript : MonoBehaviour
 {
     Image timerBar;
-    public float maxTime = 100f;
+    public float maxTime = 10f;
     public float timeLeft;
-    public GameObject timesUpText;
 
 
     static TimerScript _instance;
@@ -29,7 +29,6 @@ public class TimerScript : MonoBehaviour
 // Start is called before the first frame update
 void Start()
     {
-        timesUpText.SetActive(false);
         timerBar = GetComponent<Image>();
         timeLeft = maxTime;
     }
@@ -39,13 +38,12 @@ void Start()
     {
         if (timeLeft > 0)
         {
-            timeLeft -= Time.deltaTime;
+            timeLeft -= Time.deltaTime*0.5f;
             timerBar.fillAmount = timeLeft / maxTime;
         }
         else
         {
-            timesUpText.SetActive(true);
-            Time.timeScale = 0;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         }
     }
 
