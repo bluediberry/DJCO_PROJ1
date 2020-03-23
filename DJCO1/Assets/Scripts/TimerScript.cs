@@ -38,7 +38,7 @@ void Start()
     {
         if (timeLeft > 0)
         {
-            timeLeft -= Time.deltaTime*0.5f;
+            timeLeft -= Time.deltaTime*0.7f;
             timerBar.fillAmount = timeLeft / maxTime;
         }
         else

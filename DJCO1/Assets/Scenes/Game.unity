@@ -2173,7 +2173,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 8
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2197,7 +2197,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.7279034, y: 5.749999, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5145655, y: 0.33347747, z: 0.5797793}
   m_Children: []
   m_Father: {fileID: 0}
@@ -18304,7 +18304,9 @@ GameObject:
   - component: {fileID: 1504887921}
   - component: {fileID: 1504887920}
   - component: {fileID: 1504887923}
+  - component: {fileID: 1504887924}
   - component: {fileID: 1504887922}
+  - component: {fileID: 1504887925}
   m_Layer: 0
   m_Name: FEUP
   m_TagString: Goal
@@ -18368,7 +18370,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1504887919}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 31.66063, y: 5.659277, z: 0.10802561}
+  m_LocalPosition: {x: 30.35, y: 5.659277, z: 0.10802561}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 318367659}
@@ -18396,10 +18398,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.08422136, y: -0.021988869}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -18410,8 +18412,42 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.94, y: 12.7}
+  m_Size: {x: 4.1084433, y: 12.7439785}
   m_EdgeRadius: 0
+--- !u!114 &1504887924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504887919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1b95f4e1066fc449c7796481e6c8e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timerDelta: 30
+--- !u!50 &1504887925
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504887919}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1515393817
 GameObject:
   m_ObjectHideFlags: 0
