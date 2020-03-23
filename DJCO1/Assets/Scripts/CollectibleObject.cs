@@ -20,7 +20,7 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     public void OnCollected()
     {
 
-        if (gameObject.tag == "Coffee")
+        if (gameObject.tag == "Goal")
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
