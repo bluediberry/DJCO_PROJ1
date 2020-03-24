@@ -122,5 +122,21 @@ public class PhysicsObject : MonoBehaviour {
             //no collectible!
             //(╯°□°）╯︵ ┻━┻
         }
+
+        if (coll.gameObject.name.Equals("Platform"))
+        {
+            transform.SetParent(gameObject.transform);
+
+        }
     }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Equals("Platform"))
+        {
+            transform.SetParent(null);
+
+        }
+    }
+
 }
