@@ -38,14 +38,14 @@ public class TimerScript : MonoBehaviour
     void Start()
     {
         timerBar = GetComponent<Image>();
-        timeLeft = maxTime;
+        //timeLeft = maxTime;
     }
 
     // Update is called once per frame
     void Update()
     {
 
-        if (clock == false)
+        if (!clock)
         {
             if (timeLeft > 0)
             {
