@@ -13,7 +13,6 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     /// Timer delta on collected
     /// </summary>
     public float timerDelta = 30f;
-
     /// <summary>
     /// Implementation code for intereface ICollectible's "OnCollected" method
     /// </summary>
@@ -25,9 +24,19 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
+        if (gameObject.tag == "Clock")
+        {
+            TimerScript.ModifyClock();
+        }
+
+        if (gameObject.tag == "Coffee")
+        {
+            TimerScript.ModifyCoffee();
+        }
+
         //modify timer:
         TimerScript.ModifyTimer(timerDelta);
-
+        
         //disable this object:
         gameObject.SetActive(false);
 

@@ -1,12 +1,11 @@
 /target:library
 /nowarn:0169
-/out:Temp/Assembly-CSharp-Editor.dll
+/out:Temp/Unity.CollabProxy.Editor.dll
 /debug:portable
 /optimize-
 /nostdlib+
 /preferreduilang:en-US
 /langversion:latest
-/reference:Library/ScriptAssemblies/Assembly-CSharp.dll
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -70,17 +69,8 @@
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/UnityEditor.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\Managed/Unity.Locator.dll"
-/reference:Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
-/reference:Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
 /reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
-/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll"
-/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll"
-/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
@@ -97,11 +87,13 @@
 /reference:Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
 /reference:Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
 /reference:Assets/Plugins/GitHub/Editor/sfw.net.dll
-/reference:"C:/Users/José Diogo/Documents/GitHub/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
-/reference:"C:/Users/José Diogo/Documents/GitHub/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
-/reference:"C:/Users/José Diogo/Documents/GitHub/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll"
-/reference:"C:/Users/José Diogo/Documents/GitHub/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll"
-/reference:"C:/Users/José Diogo/Documents/GitHub/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll
+/reference:C:/Users/mary-/OneDrive/Documentos/DJCO_PROJ1_VO/DJCO_PROJ1/DJCO1/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.dll"
 /reference:"C:\Program Files\Unity\Hub\Editor\2018.4.18f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Core.dll"
@@ -318,48 +310,23 @@
 /define:ENABLE_UNITY_COLLECTIONS_CHECKS
 /define:ENABLE_BURST_AOT
 /define:UNITY_TEAM_LICENSE
+/define:ENABLE_VSTU
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineBrainEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineClearShotEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineColliderEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineComposerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineConfinerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineExternalCameraEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineFramingTransposerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineFreeLookEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineGroupComposerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLockToTargetEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineHardLookAtEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineMixingCameraEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineOrbitalTransposerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachinePathEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachinePOVEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineScreenComposerGuides.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineSmoothPathEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineStateDrivenCameraEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineTargetGroupEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineTrackedDollyEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineTransposerEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraBaseEditor.cs
-Assets\Cinemachine\Base\Editor\Editors\CinemachineVirtualCameraEditor.cs
-Assets\Cinemachine\Base\Editor\Menus\CinemachineMenu.cs
-Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineBlendDefinitionPropertyDrawer.cs
-Assets\Cinemachine\Base\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
-Assets\Cinemachine\Base\Editor\PropertyDrawers\GetSetDrawer.cs
-Assets\Cinemachine\Base\Editor\PropertyDrawers\LensSettingsPropertyDrawer.cs
-Assets\Cinemachine\Base\Editor\PropertyDrawers\MinDrawer.cs
-Assets\Cinemachine\Base\Editor\Utility\BaseEditor.cs
-Assets\Cinemachine\Base\Editor\Utility\EmbeddedAssetHelpers.cs
-Assets\Cinemachine\Base\Editor\Utility\SaveDuringPlay.cs
-Assets\Cinemachine\Base\Editor\Utility\ScriptableObjectUtility.cs
-Assets\Cinemachine\Base\Editor\Utility\SerializedPropertyHelper.cs
-Assets\Cinemachine\Base\Editor\Windows\AboutWindow.cs
-Assets\Cinemachine\Base\Editor\Windows\CinemachineColliderPrefs.cs
-Assets\Cinemachine\Base\Editor\Windows\CinemachineSettings.cs
-Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs
-Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs
-Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\AssemblyInfo.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Bootstrap.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\CollabAnalytics.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\CollabHistoryWindow.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\CollabToolbarButton.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\CollabToolbarWindow.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\BuildStatusButton.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\CollabHistoryDropDown.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\CollabHistoryDropDownItem.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\CollabHistoryItem.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\CollabHistoryItemFactory.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\CollabHistoryRevisionLine.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\HistoryProgressSpinner.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\ICollabHistoryItemFactory.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\PagedListView.cs
+C:\Users\mary-\OneDrive\Documentos\DJCO_PROJ1_VO\DJCO_PROJ1\DJCO1\Library\PackageCache\com.unity.collab-proxy@1.2.15\Editor\Collab\Views\StatusView.cs

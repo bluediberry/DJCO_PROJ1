@@ -1860,16 +1860,16 @@ MonoBehaviour:
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
-  m_ScreenX: 0.05
+  m_ScreenX: 0.049999982
   m_ScreenY: 0.81999993
   m_CameraDistance: 10
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
-  m_SoftZoneWidth: 0.8
+  m_SoftZoneWidth: 1
   m_SoftZoneHeight: 2
-  m_BiasX: -0.00000006053597
+  m_BiasX: 0
   m_BiasY: 0
   m_GroupFramingMode: 2
   m_AdjustmentMode: 2
@@ -2173,7 +2173,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 8
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2197,7 +2197,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.132438, y: 5.749999, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5145655, y: 0.33347747, z: 0.5797793}
   m_Children: []
   m_Father: {fileID: 0}
@@ -27667,7 +27667,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352947244}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.132438, y: 5.749999, z: -10}
+  m_LocalPosition: {x: -6.593752, y: 5.366999, z: -10}
   m_LocalScale: {x: 1.0714974, y: 1.2794, z: 1.2794}
   m_Children:
   - {fileID: 441825998}
@@ -30429,8 +30429,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -350, y: 35}
-  m_SizeDelta: {x: 500, y: 90}
+  m_AnchoredPosition: {x: -254.8, y: 35}
+  m_SizeDelta: {x: 690.3, y: 104.9}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2012440856
 MonoBehaviour:
@@ -30481,6 +30481,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxTime: 20
   timeLeft: 0
+  clock: 0
 --- !u!1 &2056263685
 GameObject:
   m_ObjectHideFlags: 0
@@ -30757,10 +30758,11 @@ GameObject:
   - component: {fileID: 2073104287}
   - component: {fileID: 2073104286}
   - component: {fileID: 2073104285}
+  - component: {fileID: 2073104288}
   - component: {fileID: 2073104284}
   m_Layer: 0
-  m_Name: Clock (1)
-  m_TagString: Untagged
+  m_Name: Clock
+  m_TagString: Clock
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30860,12 +30862,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073104283}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -114.379364, y: 3.159774, z: 0.10802561}
+  m_LocalPosition: {x: -199.14, y: 0.12, z: 0.10802561}
   m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 318367659}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2073104288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073104283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd9dc0a7b89ed184b9f5638450540c9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxTime: 50
+  timeLeft: 0
+  clock: 0
 --- !u!1 &2077384402
 GameObject:
   m_ObjectHideFlags: 0

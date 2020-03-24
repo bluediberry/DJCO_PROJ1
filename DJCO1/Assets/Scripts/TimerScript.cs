@@ -7,9 +7,9 @@ using UnityEngine.UI;
 public class TimerScript : MonoBehaviour
 {
     Image timerBar;
-    public float maxTime = 10f;
+    public float maxTime = 50f;
     public float timeLeft;
-
+    public bool clock = false;
 
     static TimerScript _instance;
 
@@ -25,9 +25,17 @@ public class TimerScript : MonoBehaviour
         _instance.timeLeft += byAmount;
     }
 
+    public static void ModifyClock()
+    {
+        _instance.clock = true;
+    }
 
-// Start is called before the first frame update
-void Start()
+    public static void ModifyCoffee()
+    {
+        _instance.clock = false;
+    }
+    // Start is called before the first frame update
+    void Start()
     {
         timerBar = GetComponent<Image>();
         timeLeft = maxTime;
@@ -36,15 +44,20 @@ void Start()
     // Update is called once per frame
     void Update()
     {
-        if (timeLeft > 0)
+
+        if (clock == false)
         {
-            timeLeft -= Time.deltaTime*0.7f;
-            timerBar.fillAmount = timeLeft / maxTime;
+            if (timeLeft > 0)
+            {
+                timeLeft -= Time.deltaTime * 0.7f;
+                timerBar.fillAmount = timeLeft / maxTime;
+            }
+            else
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+            }
         }
-        else
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
-        }
+
     }
 
 }
