@@ -57,6 +57,8 @@ public class TimerScript : MonoBehaviour
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
             }
         }
+        timerBar.fillAmount = timeLeft / maxTime;
+
 
     }
 

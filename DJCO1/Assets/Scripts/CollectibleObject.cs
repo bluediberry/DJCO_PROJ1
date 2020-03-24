@@ -24,6 +24,11 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
+        if (gameObject.tag == "Respawn")
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        }
+
         if (gameObject.tag == "Clock")
         {
             TimerScript.ModifyClock();
