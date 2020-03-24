@@ -18,7 +18,9 @@ public class CameraController : CinemachineExtension
     {
         if (enabled && stage == CinemachineCore.Stage.Body)
         {
+            
             var pos = state.RawPosition;
+            pos.x = pos.x - 5f;
             pos.y = m_yPosition;
             state.RawPosition = pos;
         }
