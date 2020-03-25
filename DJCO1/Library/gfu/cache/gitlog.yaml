@@ -13,9 +13,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-25T22:33:39.777+00:00
+  lastUpdatedAtString: 2020-03-25T22:35:48.981+00:00
   initializedAtString: 2020-03-25T22:33:38.617+00:00
   log:
+  - commitID: 624694db23caff97e9eea707c3d8a54b72318b0e
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: Aa
+    description: 
+    timeString: 2020-03-25T22:35:15.000+00:00
+    commitTimeString: 2020-03-25T22:35:15.000+00:00
+    changes:
+    - path: DJCO1\Assets\Scripts\PlayOnCollision.cs
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Assets\\Scripts\\PlayOnCollision.cs"
+      projectPath: Assets\Scripts\PlayOnCollision.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scripts\PlayOnCollision.cs.meta
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Assets\\Scripts\\PlayOnCollision.cs.meta"
+      projectPath: Assets\Scripts\PlayOnCollision.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\StateCache\\Hierarchy\\46b7a0-mainStage.json"
+      projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\StateCache\\SceneView\\d69a67-mainStage.json"
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\assetDatabase3"
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\branches.yaml"
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitlocks.yaml"
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitlog.yaml"
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a608e06afdccc2f4da8988fae28f8d05
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\metadata\\a6\\a608e06afdccc2f4da8988fae28f8d05"
+      projectPath: Library\metadata\a6\a608e06afdccc2f4da8988fae28f8d05
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\a6\a608e06afdccc2f4da8988fae28f8d05.info
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\metadata\\a6\\a608e06afdccc2f4da8988fae28f8d05.info"
+      projectPath: Library\metadata\a6\a608e06afdccc2f4da8988fae28f8d05.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-115777e706d24c64aa7c8ce7e665d705
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-115777e706d24c64aa7c8ce7e665d705"
+      projectPath: Temp\UnityTempFile-115777e706d24c64aa7c8ce7e665d705
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-e192a35c88cae08449ed9df42c898faf
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-e192a35c88cae08449ed9df42c898faf"
+      projectPath: Temp\UnityTempFile-e192a35c88cae08449ed9df42c898faf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-e4bb081dfa93c9c40b24cc5b6e685bda
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-e4bb081dfa93c9c40b24cc5b6e685bda"
+      projectPath: Temp\UnityTempFile-e4bb081dfa93c9c40b24cc5b6e685bda
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 59bb7886893aaf4a69fcc00eaf1e97155b08db29
     mergeA: 
     mergeB: 
