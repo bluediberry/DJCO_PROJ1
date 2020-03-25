@@ -14,18 +14,16 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     /// </summary>
     public float timerDelta = 30f;
 
-    //public AudioSource audioSource;
+    public AudioSource audioSource;
 
     /// <summary>
     /// Implementation code for intereface ICollectible's "OnCollected" method
     /// </summary>
     public void OnCollected()
     {
-
-        /*audioSource = GetComponent<AudioSource>();
-
+        
         audioSource.Play();
-        */
+        
         if (gameObject.tag == "Goal")
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
