@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 681, y: 474}
+  m_MinSize: {x: 679, y: 474}
   m_MaxSize: {x: 14000, y: 14024}
   vertical: 0
-  controlID: 26505
+  controlID: 5068
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,10 +126,10 @@ MonoBehaviour:
     y: 0
     width: 1092
     height: 731
-  m_MinSize: {x: 406, y: 474}
+  m_MinSize: {x: 404, y: 474}
   m_MaxSize: {x: 10000, y: 14024}
   vertical: 1
-  controlID: 26506
+  controlID: 5069
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,10 +151,10 @@ MonoBehaviour:
     y: 0
     width: 1092
     height: 427
-  m_MinSize: {x: 406, y: 224}
-  m_MaxSize: {x: 8006, y: 4024}
+  m_MinSize: {x: 404, y: 224}
+  m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 26507
+  controlID: 5052
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,8 +174,8 @@ MonoBehaviour:
     y: 0
     width: 326
     height: 427
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -209,10 +209,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 218}
+      scrollPos: {x: 0, y: 522}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d2cdfeff5ee3feff6ee3feff66e6feff56effeffbaf2feff14f6feff82fbffff8a590000567500007a75000088750000d2750000407600004a760000
+      m_ExpandedIDs: b4e6ffff92efffffaaefffffb0efffffb8efffffceefffffd8efffff5cf0ffff74f0ffff18f2ffff20f2ffff4cf2ffff56f2ffffdcfbffff621400008e140000e61400004c450000a4450000c8450000064d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -295,9 +295,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 394.01654, y: 89.70162, z: -11.767455}
+    m_Target: {x: 419.6346, y: 194.873, z: -15.025}
     speed: 2
-    m_Value: {x: 394.01654, y: 89.70162, z: -11.767455}
+    m_Value: {x: 419.6346, y: 194.873, z: -15.025}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -329,9 +329,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 684.7862
+    m_Target: 708.0282
     speed: 2
-    m_Value: 684.7862
+    m_Value: 708.0282
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -434,20 +434,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 37}
-    m_SelectedIDs: de2b0000
-    m_LastClickedID: 11230
-    m_ExpandedIDs: 00000000e02800002c2900000a2b0000642c0000ea2c0000282d0000362d00009a2d0000ce2f000000ca9a3b
+    m_SelectedIDs: 9e0d0000
+    m_LastClickedID: 3486
+    m_ExpandedIDs: 000000002a0c0000760c0000560e0000b00f0000361000007410000082100000e61000001a13000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -475,7 +475,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e02800002c2900000a2b0000642c0000ea2c0000282d0000362d00009a2d0000ce2f000000ca9a3b
+    m_ExpandedIDs: 000000002a0c0000760c0000560e0000b00f0000361000007410000082100000e61000001a13000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,8 +500,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 8442feff
-    m_LastClickedInstanceID: -114044
+    m_SelectedInstanceIDs: bc4e0000
+    m_LastClickedInstanceID: 20156
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000702900001c27000000000000f8300000b8450000
     m_RenameOverlay:
