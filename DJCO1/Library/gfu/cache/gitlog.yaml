@@ -13,9 +13,267 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-25T22:35:48.981+00:00
+  lastUpdatedAtString: 2020-03-25T23:00:42.274+00:00
   initializedAtString: 2020-03-25T22:33:38.617+00:00
   log:
+  - commitID: 2e35bbb9b7d09b5c310ef8154b35f08f5d3efe88
+    mergeA: 
+    mergeB: 
+    authorName: zmartz
+    authorEmail: 36684046+zmartz@users.noreply.github.com
+    commitEmail: 36684046+zmartz@users.noreply.github.com
+    commitName: zmartz
+    summary: small steps
+    description: 
+    timeString: 2020-03-25T22:59:49.000+00:00
+    commitTimeString: 2020-03-25T22:59:49.000+00:00
+    changes:
+    - path: DJCO1\Assets\Audio\spugal.mp3
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Assets\\Audio\\spugal.mp3"
+      projectPath: Assets\Audio\spugal.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Audio\spugal.mp3.meta
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Assets\\Audio\\spugal.mp3.meta"
+      projectPath: Assets\Audio\spugal.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Assets\Scenes\Menu.unity
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Assets\\Scenes\\Menu.unity"
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\CrashedAssetImports.txt
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\CrashedAssetImports.txt"
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\CurrentMaximizeLayout.dwlt
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\CurrentMaximizeLayout.dwlt"
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\InspectorExpandedItems.asset
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\InspectorExpandedItems.asset"
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\StateCache\\Hierarchy\\46b7a0-mainStage.json"
+      projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\StateCache\\SceneView\\d69a67-mainStage.json"
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\assetDatabase3
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\assetDatabase3"
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\branches.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\branches.yaml"
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlocks.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitlocks.yaml"
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\gfu\cache\gitlog.yaml
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\gfu\\cache\\gitlog.yaml"
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\metadata\\5f\\5f62880175d1e2f4cb670bcf586b42fc"
+      projectPath: Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc.info
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\metadata\\5f\\5f62880175d1e2f4cb670bcf586b42fc.info"
+      projectPath: Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc.resource
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\metadata\\5f\\5f62880175d1e2f4cb670bcf586b42fc.resource"
+      projectPath: Library\metadata\5f\5f62880175d1e2f4cb670bcf586b42fc.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Library\\shadercompiler-UnityShaderCompiler.exe0.log"
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-0e2af03a4935afa4e85e2cb4a6d2bc45
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-0e2af03a4935afa4e85e2cb4a6d2bc45"
+      projectPath: Temp\UnityTempFile-0e2af03a4935afa4e85e2cb4a6d2bc45
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-216092401f8c450498105639786bbf50
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-216092401f8c450498105639786bbf50"
+      projectPath: Temp\UnityTempFile-216092401f8c450498105639786bbf50
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-29f3ef97c81224a45b83919297798ff7
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-29f3ef97c81224a45b83919297798ff7"
+      projectPath: Temp\UnityTempFile-29f3ef97c81224a45b83919297798ff7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-2ac665e2a230a14489993442fdd9642d
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-2ac665e2a230a14489993442fdd9642d"
+      projectPath: Temp\UnityTempFile-2ac665e2a230a14489993442fdd9642d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-347623ed4b7016b4a89c4374e06fac0d
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-347623ed4b7016b4a89c4374e06fac0d"
+      projectPath: Temp\UnityTempFile-347623ed4b7016b4a89c4374e06fac0d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-38ac8eb3a69baa949ac86927d49405fb
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-38ac8eb3a69baa949ac86927d49405fb"
+      projectPath: Temp\UnityTempFile-38ac8eb3a69baa949ac86927d49405fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5159085302efac6419a00d6af458f930
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-5159085302efac6419a00d6af458f930"
+      projectPath: Temp\UnityTempFile-5159085302efac6419a00d6af458f930
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-589c51104ac2e544788b6add32c8fb3f
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-589c51104ac2e544788b6add32c8fb3f"
+      projectPath: Temp\UnityTempFile-589c51104ac2e544788b6add32c8fb3f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-5eb0a993cade84041bd706b8b52d9081
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-5eb0a993cade84041bd706b8b52d9081"
+      projectPath: Temp\UnityTempFile-5eb0a993cade84041bd706b8b52d9081
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-6a1052acc5e73904e9b8c0b114bb7ac5
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-6a1052acc5e73904e9b8c0b114bb7ac5"
+      projectPath: Temp\UnityTempFile-6a1052acc5e73904e9b8c0b114bb7ac5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-720ae1aa7279ec44fb00dd62bdde50d9
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-720ae1aa7279ec44fb00dd62bdde50d9"
+      projectPath: Temp\UnityTempFile-720ae1aa7279ec44fb00dd62bdde50d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-74f365470c6fb5845b05c49405eecd12
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-74f365470c6fb5845b05c49405eecd12"
+      projectPath: Temp\UnityTempFile-74f365470c6fb5845b05c49405eecd12
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-7f22d685b18e8944192f9a23e491fca7
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-7f22d685b18e8944192f9a23e491fca7"
+      projectPath: Temp\UnityTempFile-7f22d685b18e8944192f9a23e491fca7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-89429c523e442034c85dbe59c714e47a
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-89429c523e442034c85dbe59c714e47a"
+      projectPath: Temp\UnityTempFile-89429c523e442034c85dbe59c714e47a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-8d4ee20b478cc0541a1d1af5a0bf0caa
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-8d4ee20b478cc0541a1d1af5a0bf0caa"
+      projectPath: Temp\UnityTempFile-8d4ee20b478cc0541a1d1af5a0bf0caa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-99f4bc9716b01e044b4e421b5ba40223
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-99f4bc9716b01e044b4e421b5ba40223"
+      projectPath: Temp\UnityTempFile-99f4bc9716b01e044b4e421b5ba40223
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a1b7a2b5ddcceb447a303ac995a644e5
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-a1b7a2b5ddcceb447a303ac995a644e5"
+      projectPath: Temp\UnityTempFile-a1b7a2b5ddcceb447a303ac995a644e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-a5e66cfea829fcf4a8c62f54f30553cf
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-a5e66cfea829fcf4a8c62f54f30553cf"
+      projectPath: Temp\UnityTempFile-a5e66cfea829fcf4a8c62f54f30553cf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-b616ab98721e6cb4686bd6fcc56da5e7
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-b616ab98721e6cb4686bd6fcc56da5e7"
+      projectPath: Temp\UnityTempFile-b616ab98721e6cb4686bd6fcc56da5e7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-bae1ad9c4dd18d64cb7db05a9c1b07f9
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-bae1ad9c4dd18d64cb7db05a9c1b07f9"
+      projectPath: Temp\UnityTempFile-bae1ad9c4dd18d64cb7db05a9c1b07f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c27e4b335003bf047a61dfe5413cb5e6
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-c27e4b335003bf047a61dfe5413cb5e6"
+      projectPath: Temp\UnityTempFile-c27e4b335003bf047a61dfe5413cb5e6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-c54521c80c59bc2458ea1d45c01e1397
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-c54521c80c59bc2458ea1d45c01e1397"
+      projectPath: Temp\UnityTempFile-c54521c80c59bc2458ea1d45c01e1397
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-e7a5e9ea18a7ce247afa369124ebb85e
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-e7a5e9ea18a7ce247afa369124ebb85e"
+      projectPath: Temp\UnityTempFile-e7a5e9ea18a7ce247afa369124ebb85e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\UnityTempFile-fb0cf7f65bb63ac4ea417b1567e808c4
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\UnityTempFile-fb0cf7f65bb63ac4ea417b1567e808c4"
+      projectPath: Temp\UnityTempFile-fb0cf7f65bb63ac4ea417b1567e808c4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: DJCO1\Temp\__Backupscenes\0.backup
+      fullPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1\\Temp\\__Backupscenes\\0.backup"
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 624694db23caff97e9eea707c3d8a54b72318b0e
     mergeA: 
     mergeB: 
