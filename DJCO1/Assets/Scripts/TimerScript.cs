@@ -49,9 +49,7 @@ public class TimerScript : MonoBehaviour
         {
             if (timeLeft > 0)
             {
-                if (timeLeft - Time.deltaTime * 0.7f > 50d)
-                    timeLeft = 50f;
-                else timeLeft -= Time.deltaTime * 0.7f;
+                timeLeft -= Time.deltaTime * 0.7f;
                 timerBar.fillAmount = timeLeft / maxTime;
             }
             else
