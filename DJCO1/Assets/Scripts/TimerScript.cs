@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -10,6 +11,8 @@ public class TimerScript : MonoBehaviour
     public float maxTime = 50f;
     public float timeLeft;
     public bool clock = false;
+    public float finalTime;
+
 
     static TimerScript _instance;
 
@@ -35,12 +38,15 @@ public class TimerScript : MonoBehaviour
     {
         _instance.clock = false;
     }
+
+
     // Start is called before the first frame update
     void Start()
     {
         timerBar = GetComponent<Image>();
-        //timeLeft = maxTime;
+        finalTime = timeLeft;
     }
+
 
     // Update is called once per frame
     void Update()
@@ -51,6 +57,7 @@ public class TimerScript : MonoBehaviour
             if (timeLeft > 0)
             {
                 timeLeft -= Time.deltaTime * 0.7f;
+                finalTime = timeLeft;
                 timerBar.fillAmount = timeLeft / maxTime;
             }
             else
