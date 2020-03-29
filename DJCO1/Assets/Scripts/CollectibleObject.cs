@@ -15,7 +15,6 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
     public float timerDelta = 30f;
 
     public AudioSource audioSource;
-    public TimeScript time;
 
     /// <summary>
     /// Implementation code for intereface ICollectible's "OnCollected" method
@@ -38,18 +37,15 @@ public class CollectibleObject : MonoBehaviour, ICollectible//<look it's impleme
         if (gameObject.tag == "Clock")
         {
             TimerScript.ModifyClock();
-            TimeScript.ModifyClock();
         }
 
         if (gameObject.tag == "Coffee")
         {
             TimerScript.ModifyCoffee();
-            TimeScript.ModifyCoffee();
         }
 
         //modify timer:
         TimerScript.ModifyTimer(timerDelta);
-        TimeScript.ModifyTimer(timerDelta);
 
         //disable this object:
         gameObject.SetActive(false);

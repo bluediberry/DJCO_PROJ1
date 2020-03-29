@@ -23,6 +23,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex - 2);
     }
 
+    public void TimeOut2()
+    {
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex - 3);
+    }
+
 
     public void QuitGame()
     {

@@ -11,8 +11,6 @@ public class TimerScript : MonoBehaviour
     public float maxTime = 50f;
     public float timeLeft;
     public bool clock = false;
-    public float finalTime;
-
 
     static TimerScript _instance;
 
@@ -44,7 +42,6 @@ public class TimerScript : MonoBehaviour
     void Start()
     {
         timerBar = GetComponent<Image>();
-        finalTime = timeLeft;
     }
 
 
@@ -57,7 +54,6 @@ public class TimerScript : MonoBehaviour
             if (timeLeft > 0)
             {
                 timeLeft -= Time.deltaTime * 0.7f;
-                finalTime = timeLeft;
                 timerBar.fillAmount = timeLeft / maxTime;
             }
             else
