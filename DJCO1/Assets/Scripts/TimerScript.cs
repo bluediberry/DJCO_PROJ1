@@ -22,6 +22,7 @@ public class TimerScript : MonoBehaviour
 
     public static void ModifyTimer(float byAmount)
     {
+        if(_instance.timeLeft < _instance.maxTime)
         _instance.timeLeft += byAmount;
     }
 
