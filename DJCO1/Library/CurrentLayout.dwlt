@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 524}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 524}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 681, y: 474}
-  m_MaxSize: {x: 14002, y: 14024}
+  m_MinSize: {x: 683, y: 498}
+  m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 807
+  controlID: 5061
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1092
     height: 731
-  m_MinSize: {x: 404, y: 474}
-  m_MaxSize: {x: 10000, y: 14024}
+  m_MinSize: {x: 406, y: 498}
+  m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 808
+  controlID: 5062
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,10 +162,10 @@ MonoBehaviour:
     y: 0
     width: 1092
     height: 427
-  m_MinSize: {x: 404, y: 224}
-  m_MaxSize: {x: 8004, y: 4024}
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 809
+  controlID: 5063
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -385,9 +385,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a2140000
-      m_LastClickedID: 5282
-      m_ExpandedIDs: dcfbfffffa140000
+      m_SelectedIDs: aa370000
+      m_LastClickedID: 14250
+      m_ExpandedIDs: a0f4ffffe8f4fffffef4ffffdaf8ffff00f9ffffdcfbffff92350000743600009836000080370000a4370000b2370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -442,9 +442,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 255.76292, y: 354.03836, z: -2.9006784}
+    m_Target: {x: 439.1972, y: 228.79005, z: 0}
     speed: 2
-    m_Value: {x: 255.76292, y: 354.03836, z: -2.9006784}
+    m_Value: {x: 439.1972, y: 228.79005, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -476,9 +476,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 506.55264
+    m_Target: 748.76245
     speed: 2
-    m_Value: 506.55264
+    m_Value: 748.76245
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -554,19 +554,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Jos\xE9 Diogo\\Documents\\GitHub\\DJCO_PROJ1\\DJCO1"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 37}
-    m_SelectedIDs: a20d0000
-    m_LastClickedID: 3490
+    m_SelectedIDs: 2e0f0000
+    m_LastClickedID: 3886
     m_ExpandedIDs: 000000002a0c00007a0c00005a0e0000b40f00003a1000007c1000008a100000ee1000002613000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
