@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/José Diogo/Desktop/Nova pasta/DJCO1.exe
+C:/Users/José Diogo/Desktop/Nova pasta (2)/DJCO1.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Game.unity
